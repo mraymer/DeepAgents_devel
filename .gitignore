@@ -1,0 +1,14 @@
+# venvs
+.venv/
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# env & local config
+.env
+.env.*
