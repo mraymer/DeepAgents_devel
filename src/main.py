@@ -1,4 +1,5 @@
 from deepagents import create_deep_agent
+from langchain.agents import create_agent
 from dotenv import load_dotenv
 from textwrap import dedent
 from datetime import datetime
@@ -6,6 +7,8 @@ from langchain.chat_models import init_chat_model
 from tools.internet_search import InternetSearchTool
 from tools.venue_lookup import VenueLookupTool
 from langchain_tavily import TavilyExtract
+from localMiddleware.auditMiddleware import AuditMiddleware
+
 
 from utils.agent_factory import make_all_subagents
 
@@ -103,6 +106,11 @@ def main():
 
     subagents = make_all_subagents(params, "./config/subagents.yaml")
     subagent_descriptions = '\n    '.join([sa["name"] + ": " + sa["description"] for sa in subagents])
+
+
+    # Add logging middleware to subagents
+    for agent in subagents:
+        agent['middleware'] = [AuditMiddleware(audit_path='./michael_raymer', subagent_name=agent['name'])]
 
     # System prompt to steer the agent to be an expert researcher
     system_template = COORDINATOR_BACKGROUND

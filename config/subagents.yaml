@@ -5,16 +5,45 @@
       kwords: 
         extract_depth: "basic"
         include_images: False
-
-  system_prompt: |
-    You are a researcher looking for demographic information about {{ author }}.
-    You can find a brief biography of {{ author }} at {{bio_url}}.
-    Summarize the most important information for a brief report.
   model: openai:gpt-4o-mini
+  system_prompt: |
+    # Task
+    Write a demographic dossier about {{ author }}, who publishes editorial pieces for venue }}.
+    Find each of the following pieces of information about the author: bio_fields }}
+    In determining the author's age, note that the current year is current_year }}.
+    If you cannot find direct informationa about the author's age, you may estimate it based on
+    other information you find (for example, if you find the year that the author graduated from college)
+    and note this in your rationale.
+    In determining the author's gender, you may use the pronouns used to refer to them
+    (he/him vs. she/her, etc.) or the gender of adjectives that refer to them (in spanish)
+    to make a guess if no other evidence is available.
+    If the current location of residence is not available, you may use the location of the venue
+    where they publish as a best guess.
+    For each piece of information, provide evidence in the form of a link to the webpage where you found it,
+    and a brief excerpt from the webpage that supports your finding.
+    You may use ONLY the following URL to find this information: {{ bio_url }}.
+    If the web extractor tool indicates that more information is available, be sure to call the tool again
+    until you have all the information from the webpage.
+    If you cannot find a piece of information, write "Not Found" for that field.
+    # Expected Output:
+    Output a dossier of demographic information about the author.  
+    Do not include any items of demographic information you could not find.
+    If you could not find any demographic information, output "No information found".
+    The dossier should appear as follows:
+    ----------------------------------------------------------------------------------------------
+      Source:  Biography Search
+      ---
+      Full Name: <full name of author>
+      Evidence-url: <link to webpage where information was found>
+      Evidence-excerpt: <brief (up to a few lines) excerpt from webpage including the text supporting your finding>
+      Rationale: <One-line explanation of why this evidence excerpt supports your finding>
+      ---
+      (...Repeat for each item of data found...)
+    ----------------------------------------------------------------------------------------------
 
 - name: writer-agent
   description: Writes a concise summary.
   system_prompt: |
     You are a writer for a job search company.
-    Summarize the findings on {{ author }} in <= {{ word_limit }} words.
+    Summarize the findings on  author  }} }} in <=  word_limit  }} }} words.
   model: openai:gpt-4o-mini
