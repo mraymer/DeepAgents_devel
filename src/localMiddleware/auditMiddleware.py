@@ -5,6 +5,8 @@ from typing import Any, Optional
 from langchain.agents.middleware import AgentMiddleware
 from langchain_core.messages import AIMessage
 
+MAX_BLOB_SIZE = 10000
+
 def _safe_file_name(name: str) -> str:
     s = re.sub(r"[^\w\-.]+", "_", name.strip())[:120]
     return s or f"subagent_{uuid.uuid4().hex[:8]}"
@@ -41,12 +43,12 @@ class AuditMiddleware(AgentMiddleware):
             return None
         if isinstance(obj, str):
             text = obj.strip()
-            if text and len(text) < 8000:  # ignore giant blobs (likely tool dumps)
+            if text and len(text) < MAX_BLOB_SIZE:  # ignore giant blobs (likely tool dumps)
                 return text
             return None
         if isinstance(obj, AIMessage):
             text = (obj.content or "").strip()
-            if text and len(text) < 8000:
+            if text and len(text) < MAX_BLOB_SIZE:
                 return text
             return None
         if isinstance(obj, dict):
@@ -71,7 +73,7 @@ class AuditMiddleware(AgentMiddleware):
             return None
         # Last resort: stringify small, simple objects that look like natural language
         s = str(obj).strip()
-        return s if (s and len(s) < 8000 and ("\n" in s or " " in s)) else None
+        return s if (s and len(s) < MAX_BLOB_SIZE and ("\n" in s or " " in s)) else None
 
     def _extract_final_text(self, response: Any) -> Optional[str]:
         # Try common LC/DeepAgents shapes
