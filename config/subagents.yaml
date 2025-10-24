@@ -1,0 +1,20 @@
+- name: research-agent
+  description: Researches and compiles key facts.
+  tools:
+    - name: "langchain_tavily:TavilyExtract"
+      kwords: 
+        extract_depth: "basic"
+        include_images: False
+
+  system_prompt: |
+    You are a researcher looking for demographic information about {{ author }}.
+    You can find a brief biography of {{ author }} at {{bio_url}}.
+    Summarize the most important information for a brief report.
+  model: openai:gpt-4o-mini
+
+- name: writer-agent
+  description: Writes a concise summary.
+  system_prompt: |
+    You are a writer for a job search company.
+    Summarize the findings on {{ author }} in <= {{ word_limit }} words.
+  model: openai:gpt-4o-mini

@@ -1,0 +1,6429 @@
+[
+  {
+    "name": "+972 Magazine",
+    "root_url": "972mag.com",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Israeli-Palestinian magazine featuring analysis and opinion on occupation, Palestinian society, and regional politics.",
+    "ethnicity": "Palestinian Bolivians"
+  },
+  {
+    "name": "100% Noticias",
+    "root_url": "100noticias.com.ni",
+    "scope": "national",
+    "country": [
+      "Nicaragua"
+    ],
+    "region": [],
+    "political_slant": "anti-government",
+    "description": "Exiled Nicaraguan news site broadcasting from Costa Rica with identifiable-author opinion and editorials about the migrant community.",
+    "ethnicity": "Nicaraguans in Costa Rica"
+  },
+  {
+    "name": "5 de Septiembre",
+    "root_url": "5septiembre.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Cienfuegos"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Cienfuegos publishing news, analysis, and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "A Crítica (AM)",
+    "root_url": "acritica.com",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Amazonas"
+    ],
+    "political_slant": "",
+    "description": "Manaus daily featuring bylined opinion articles and editorials on Amazonas issues.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "A Gazeta (ES)",
+    "root_url": "agazeta.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Espírito Santo"
+    ],
+    "political_slant": "",
+    "description": "Vitória daily with an opinion section of editorials and bylined columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "A Nação",
+    "root_url": "anacao.cv",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Cape Verdean national newspaper with signed opinion columns and diaspora coverage relevant to Cape Verdeans in Argentina.",
+    "ethnicity": "Cape Verdean Argentines"
+  },
+  {
+    "name": "A Tarde",
+    "root_url": "atarde.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Bahia"
+    ],
+    "political_slant": "",
+    "description": "Salvador daily publishing editorials and bylined opinion articles.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "A.M. Costa Rica",
+    "root_url": "amcostarica.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Daily English-language newspaper for expatriates in Costa Rica featuring letters, editorials, and columns by named writers.",
+    "ethnicity": "United States expatriates in Costa Rica"
+  },
+  {
+    "name": "Adelante",
+    "root_url": "adelante.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Camagüey"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Camagüey publishing local news, editorials, and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Afrocubanas",
+    "root_url": "afrocubanas.wordpress.com",
+    "scope": "national",
+    "country": [
+      "Cuba"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Collective online magazine with bylined essays by Black Cuban women on history, culture, and anti-racism in Cuba.",
+    "ethnicity": "Afro-Cubans"
+  },
+  {
+    "name": "AfroCubaWeb",
+    "root_url": "afrocubaweb.com",
+    "scope": "national",
+    "country": [
+      "Cuba"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Long-running site featuring bylined opinion and news on Afro-Cuban culture, politics, and racism in Cuba and its diaspora.",
+    "ethnicity": "Afro-Cubans"
+  },
+  {
+    "name": "Afroféminas",
+    "root_url": "afrofeminas.com",
+    "scope": "national",
+    "country": [
+      "Colombia",
+      "Mexico",
+      "Panama"
+    ],
+    "region": [],
+    "political_slant": "feminist",
+    "description": "Spanish-language magazine dedicated to Afro-descendant women with signed op-eds and commentary, including frequent coverage of Afro-Colombian topics.",
+    "ethnicity": [
+      "Afro-Colombians",
+      "Afro-Mexicans",
+      "Afro-Panamanian"
+    ]
+  },
+  {
+    "name": "Afropress",
+    "root_url": "afropress.com",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Afro-Brazilian news agency featuring editorials and op-eds on racial justice, law, and politics.",
+    "ethnicity": "Afro-Brazilians"
+  },
+  {
+    "name": "Agencia AJN",
+    "root_url": "ajn.agency",
+    "scope": "regional",
+    "country": [
+      "Honduras"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Argentine Jewish news agency publishing bylined opinion and coverage of Jewish communities across Latin America, including Honduras.",
+    "ethnicity": "Jewish Hondurans"
+  },
+  {
+    "name": "Agencia AJN",
+    "root_url": "ajn.com.ar",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Latin American Jewish news agency with an opinion section featuring bylined commentary relevant to regional communities including Colombia.",
+    "ethnicity": "Jewish Colombians"
+  },
+  {
+    "name": "Agencia AJN (Agencia Judía de Noticias)",
+    "root_url": "ajn.com.ar",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Buenos Aires–based Jewish news agency offering reporting and signed commentary on Argentine and global Jewish issues.",
+    "ethnicity": "Jewish Argentines"
+  },
+  {
+    "name": "Agenda Propia",
+    "root_url": "agenciapropia.org",
+    "scope": "regional",
+    "country": [
+      "Ecuador"
+    ],
+    "region": [
+      "Amazon-Andes"
+    ],
+    "political_slant": "independent",
+    "description": "Cross-border indigenous journalism site that publishes bylined opinion and analysis on Andean-Amazonian peoples, often focusing on Ecuador’s Kichwa.",
+    "ethnicity": "Kichwa (Quechua)"
+  },
+  {
+    "name": "Agenda Propia",
+    "root_url": "agendapropia.co",
+    "scope": "national",
+    "country": [
+      "Colombia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Independent Colombian outlet focused on Indigenous and ethnic communities, featuring reported pieces and signed opinion columns.",
+    "ethnicity": "Indigenous peoples of Colombia"
+  },
+  {
+    "name": "Agência Cenarium Amazônia",
+    "root_url": "agenciacenarium.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Amazon-region news agency with a signed opinion section addressing Yanomami health emergencies, invasions, and regional politics.",
+    "ethnicity": "Yanomami"
+  },
+  {
+    "name": "Agência Tambor",
+    "root_url": "agenciatambor.net.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Maranhão-based outlet featuring signed commentary and reporting on human rights and traditional peoples, including quilombolas.",
+    "ethnicity": "Quilombolas"
+  },
+  {
+    "name": "Ahora",
+    "root_url": "ahora.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Holguín"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Holguín providing news, editorials, and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "AHORA CDE",
+    "root_url": "ahoracde.com",
+    "scope": "regional",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [
+      "Alto Paraná"
+    ],
+    "political_slant": "",
+    "description": "Ciudad del Este investigative news site carrying commentary and opinion pieces with bylines.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Al Día Dallas",
+    "root_url": "aldiadallas.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Texas (Dallas–Fort Worth)"
+    ],
+    "political_slant": "center",
+    "description": "Dallas Morning News’s Spanish-language outlet covering North Texas’s Mexican-American community with bylined opinion and commentary.",
+    "ethnicity": "Mexican Americans"
+  },
+  {
+    "name": "Al-Akhbar",
+    "root_url": "al-akhbar.com",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Leftist Lebanese newspaper featuring signed opinion columns, editorials, and investigative commentary.",
+    "ethnicity": "Lebanese"
+  },
+  {
+    "name": "Al-Jumhuriya",
+    "root_url": "aljumhuriya.net",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Syrian commentary magazine publishing essays and opinion by named authors on politics, culture, and the Syrian diaspora.",
+    "ethnicity": "Syrian"
+  },
+  {
+    "name": "Alma Preta Jornalismo",
+    "root_url": "almapreta.com",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Black-focused Brazilian newsroom publishing news and opinion on race, politics, and rights with bylined columnists.",
+    "ethnicity": [
+      "Afro-Brazilians",
+      "Quilombolas"
+    ]
+  },
+  {
+    "name": "AlterPresse",
+    "root_url": "alterpresse.org",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Brazil",
+      "Dominican Republic",
+      "Haiti"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Haitian independent news agency featuring signed opinion and analysis on migration and the Haitian diaspora in places like Chile.",
+    "ethnicity": [
+      "Afro-Haitian",
+      "Haitian Brazilians",
+      "Haitian immigrants in Chile",
+      "Haitian-Dominican",
+      "Haitians in French Guiana"
+    ]
+  },
+  {
+    "name": "AM",
+    "root_url": "am.com.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Guanajuato (León)"
+    ],
+    "political_slant": "independent",
+    "description": "León-based daily with an Opinión section of signed columns on Guanajuato topics.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Amazônia Latitude",
+    "root_url": "amazonialatitude.com",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Magazine devoted to the Amazon that runs essays and op-eds by scholars and Indigenous voices on Yanomami culture, territory, and socioenvironmental conflicts.",
+    "ethnicity": "Yanomami"
+  },
+  {
+    "name": "Amazônia Real",
+    "root_url": "amazoniareal.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil",
+      "Venezuela"
+    ],
+    "region": [
+      "Amazonas"
+    ],
+    "political_slant": "independent",
+    "description": "Independent Amazon-focused news site with bylined opinion on Indigenous, riverside, and quilombola rights.",
+    "ethnicity": [
+      "Quilombolas",
+      "Yanomami"
+    ]
+  },
+  {
+    "name": "An-Nahar",
+    "root_url": "annahar.com",
+    "scope": "national",
+    "country": [
+      "Paraguay",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Major Lebanese newspaper with extensive opinion pages and diaspora coverage by named columnists.",
+    "ethnicity": [
+      "Lebanese",
+      "Lebanese-Paraguayan"
+    ]
+  },
+  {
+    "name": "Anabaptist World",
+    "root_url": "anabaptistworld.org",
+    "scope": "national",
+    "country": [
+      "Mexico",
+      "Paraguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Independent Mennonite news magazine featuring analysis, columns, and op-eds on global Mennonite issues, regularly covering Low German Mennonites in Mexico.",
+    "ethnicity": [
+      "German Mennonites in Mexico",
+      "German-Paraguayan (including Mennonites)"
+    ]
+  },
+  {
+    "name": "Annahar",
+    "root_url": "annahar.com",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Major Lebanese newspaper known for editorials and bylined opinion pieces influential among Lebanese diaspora communities.",
+    "ethnicity": "Lebanese Bolivians"
+  },
+  {
+    "name": "Annur TV",
+    "root_url": "annurtv.com",
+    "scope": "national",
+    "country": [
+      "Argentina",
+      "Peru",
+      "Venezuela"
+    ],
+    "region": [],
+    "political_slant": "Islamic, pro-Palestinian",
+    "description": "Argentine Islamic news and commentary outlet focused on Arab and Muslim issues with opinion articles by identifiable authors.",
+    "ethnicity": [
+      "Arab Argentines",
+      "Arab Peruvian (Lebanese/Syrian/Palestinian)",
+      "Arab Venezuelans (Syrian-Lebanese-Palestinian)"
+    ]
+  },
+  {
+    "name": "APC Bolivia (Agencia de Comunicación de los Pueblos Originarios)",
+    "root_url": "apcbolivia.org",
+    "scope": "national",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Indigenous-run Bolivian news outlet focused on Aymara and Quechua communities, with signed opinion columns and commentary.",
+    "ethnicity": "Quechua"
+  },
+  {
+    "name": "Argentinisches Tageblatt",
+    "root_url": "argentinisches-tageblatt.com",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "liberal",
+    "description": "German-language newspaper based in Buenos Aires serving German Argentines with news, culture, and signed opinion and commentary.",
+    "ethnicity": "German Argentines"
+  },
+  {
+    "name": "Argia",
+    "root_url": "argia.eus",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Basque weekly magazine offering signed opinion and in-depth commentary on Basque culture and politics with diaspora resonance.",
+    "ethnicity": "Basque"
+  },
+  {
+    "name": "Armario Libre",
+    "root_url": "armariolibre.com.do",
+    "scope": "regional",
+    "country": [
+      "Dominican Republic"
+    ],
+    "region": [
+      "Southwest (Barahona)"
+    ],
+    "political_slant": "independent",
+    "description": "Barahona-based regional outlet offering news and signed opinion and commentary columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Artículo 66",
+    "root_url": "articulo66.com",
+    "scope": "national",
+    "country": [
+      "Nicaragua"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Nicaraguan digital newsroom in exile with an Opinión section of signed pieces covering migrants and the Costa Rica–based diaspora.",
+    "ethnicity": "Nicaraguans in Costa Rica"
+  },
+  {
+    "name": "Asbarez",
+    "root_url": "asbarez.com",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "center-left",
+    "description": "Diaspora Armenian newspaper based in the U.S. publishing editorials, columns, and opinion pieces by named writers on global Armenian affairs.",
+    "ethnicity": "Armenian"
+  },
+  {
+    "name": "Aurora (edición en español)",
+    "root_url": "aurora-israel.co.il",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Spanish-speaking world"
+    ],
+    "political_slant": "pro-Israel",
+    "description": "Spanish-language Israeli news outlet covering Jewish and Israel issues with identifiable-opinion contributors.",
+    "ethnicity": "Jewish Bolivians"
+  },
+  {
+    "name": "Aurora (Israel) – edición en español",
+    "root_url": "aurora-israel.co.il",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Ibero-America"
+    ],
+    "political_slant": "center-right",
+    "description": "Israeli Spanish-language newspaper with an Opinión section and coverage of the Jewish diaspora in Latin America, including Peru.",
+    "ethnicity": "Jewish Peruvian"
+  },
+  {
+    "name": "Aurora Israel",
+    "root_url": "aurora-israel.co.il",
+    "scope": "regional",
+    "country": [
+      "Colombia",
+      "Costa Rica",
+      "Honduras",
+      "Panama"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Spanish-language Jewish and Israel-focused news site with a dedicated Opinión section covering Latin America, including Colombia.",
+    "ethnicity": [
+      "Jewish Colombians",
+      "Jewish Costa Ricans",
+      "Jewish Hondurans",
+      "Jewish Panamanian"
+    ]
+  },
+  {
+    "name": "Aurora Israel (español)",
+    "root_url": "aurora-israel.co.il",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Spanish-language Israeli Jewish news site that publishes bylined opinion columns relevant to the Latin American Jewish diaspora.",
+    "ethnicity": "Jewish Chileans"
+  },
+  {
+    "name": "Avispa Midia",
+    "root_url": "avispa.org",
+    "scope": "regional",
+    "country": [
+      "Panama"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Investigative outlet on territorial and socio-environmental conflicts in Mesoamerica with bylined analysis and opinion focusing on Indigenous communities, including Panama.",
+    "ethnicity": "Indian Panamanian"
+  },
+  {
+    "name": "Awasqa",
+    "root_url": "awasqa.org",
+    "scope": "regional",
+    "country": [
+      "Panama"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Platform amplifying Indigenous and Afro-descendant voices across the Americas, publishing signed opinion and essays relevant to Panama’s Indigenous peoples.",
+    "ethnicity": "Indian Panamanian"
+  },
+  {
+    "name": "AyiboPost",
+    "root_url": "ayibopost.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Brazil",
+      "Dominican Republic",
+      "Haiti"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Haitian digital magazine publishing signed analysis and op-eds on Haitian society and diaspora, including Haitians in Chile.",
+    "ethnicity": [
+      "Afro-Haitian",
+      "Haitian Brazilians",
+      "Haitian immigrants in Chile",
+      "Haitian-Dominican",
+      "Haitians in French Guiana"
+    ]
+  },
+  {
+    "name": "Azkintuwe",
+    "root_url": "azkintuwe.org",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Mapuche newspaper/magazine founded by journalists that publishes reported pieces and signed opinion on Mapuche politics and society.",
+    "ethnicity": "Mapuche"
+  },
+  {
+    "name": "Balistrad",
+    "root_url": "balistrad.com",
+    "scope": "national",
+    "country": [
+      "Haiti"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Haitian online magazine with an Opinions section featuring named contributors on Afro-Haitian culture and current affairs.",
+    "ethnicity": "Afro-Haitian"
+  },
+  {
+    "name": "Basque Tribune",
+    "root_url": "basquetribune.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Argentina",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Online magazine with bylined analysis and opinion on Basque society and diaspora, relevant to Chilean Basques.",
+    "ethnicity": [
+      "Basque",
+      "Basque Argentines",
+      "Basque Chileans"
+    ]
+  },
+  {
+    "name": "Bay Islands Beacon",
+    "root_url": "bayislandsbeacon.com",
+    "scope": "regional",
+    "country": [
+      "Honduras"
+    ],
+    "region": [
+      "Bay Islands"
+    ],
+    "political_slant": "independent",
+    "description": "English-language newspaper for the Bay Islands that ran opinion columns, editorials, and letters with bylines.",
+    "ethnicity": "Afro-Caribbean Creole (Bay Islanders)"
+  },
+  {
+    "name": "Bay Islands Voice",
+    "root_url": "bayislandsvoice.com",
+    "scope": "regional",
+    "country": [
+      "Honduras"
+    ],
+    "region": [
+      "Bay Islands"
+    ],
+    "political_slant": "independent",
+    "description": "English-language monthly magazine from Roatán covering Bay Islands affairs with editorials, columns, and letters by named contributors.",
+    "ethnicity": "Afro-Caribbean Creole (Bay Islanders)"
+  },
+  {
+    "name": "Bayano Digital",
+    "root_url": "bayanodigital.com",
+    "scope": "national",
+    "country": [
+      "Panama"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Panamanian news and opinion site rooted in Afro-Panamanian perspectives, publishing signed columns and editorials on politics, culture, and rights.",
+    "ethnicity": "Afro-Panamanian"
+  },
+  {
+    "name": "Being Garifuna",
+    "root_url": "beinggarifuna.com",
+    "scope": "regional",
+    "country": [
+      "Honduras",
+      "Nicaragua"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Diaspora blog covering Garifuna news, culture, and commentary with bylined opinion pieces relevant to Honduras.",
+    "ethnicity": "Garifuna"
+  },
+  {
+    "name": "Berria",
+    "root_url": "berria.eus",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Basque-language daily featuring op-eds and columns on Basque politics and culture, widely read across the diaspora including Uruguay.",
+    "ethnicity": "Basque"
+  },
+  {
+    "name": "Bolívia Cultural",
+    "root_url": "boliviacultural.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "São Paulo"
+    ],
+    "political_slant": "independent",
+    "description": "Brazil-based outlet focused on the Bolivian diaspora in São Paulo and Brazil, featuring community news and signed opinion columns.",
+    "ethnicity": "Bolivian Brazilians"
+  },
+  {
+    "name": "BOM DIA",
+    "root_url": "bomdia.eu",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Digital news portal for Portuguese abroad that features identifiable op-eds and commentary relevant to emigrant communities.",
+    "ethnicity": "Portuguese"
+  },
+  {
+    "name": "Boston Haitian Reporter",
+    "root_url": "bostonhaitian.com",
+    "scope": "regional",
+    "country": [
+      "Haiti"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Boston-area newspaper dedicated to Haitian Americans with community reporting and signed opinion and commentary.",
+    "ethnicity": "Haitian American"
+  },
+  {
+    "name": "Buenos Aires Herald",
+    "root_url": "buenosairesherald.com",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "liberal",
+    "description": "English-language Argentine news outlet with a historic Anglo-Argentine readership, featuring editorials and bylined opinion columns.",
+    "ethnicity": "British Argentines"
+  },
+  {
+    "name": "Campo Grande News",
+    "root_url": "campograndenews.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Mato Grosso do Sul"
+    ],
+    "political_slant": "",
+    "description": "Campo Grande news outlet with signed opinion columns and editorials focused on MS.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Canadian Mennonite",
+    "root_url": "canadianmennonite.org",
+    "scope": "national",
+    "country": [
+      "Mexico"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "News magazine with reported features and opinion columns that frequently address Low German Mennonite life and migration between Canada and Mexico.",
+    "ethnicity": "German Mennonites in Mexico"
+  },
+  {
+    "name": "Canarias Exterior",
+    "root_url": "canariaexterior.com",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Newspaper for the Canarian diaspora featuring commentary and columns about Canarians abroad, including in Brazil.",
+    "ethnicity": "Spanish Brazilians"
+  },
+  {
+    "name": "Canarios en el Mundo",
+    "root_url": "canariosenelmundo.com",
+    "scope": "national",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "News site dedicated to the Canarian diaspora that covers Canarians in Venezuela and publishes signed commentary.",
+    "ethnicity": [
+      "Canarian Venezuelans",
+      "Spanish Venezuelans"
+    ]
+  },
+  {
+    "name": "Caribbean Life",
+    "root_url": "caribbeanlife.com",
+    "scope": "regional",
+    "country": [
+      "Panama"
+    ],
+    "region": [
+      "Caribbean diaspora"
+    ],
+    "political_slant": "independent",
+    "description": "New York-based Caribbean community newspaper with opinion columns and editorials by identified authors.",
+    "ethnicity": "Afro-Antillean (West Indian)"
+  },
+  {
+    "name": "Caribbean National Weekly",
+    "root_url": "caribbeannationalweekly.com",
+    "scope": "regional",
+    "country": [
+      "Panama"
+    ],
+    "region": [
+      "Caribbean diaspora"
+    ],
+    "political_slant": "independent",
+    "description": "South Florida Caribbean diaspora news outlet publishing editorials and commentary by named writers.",
+    "ethnicity": "Afro-Antillean (West Indian)"
+  },
+  {
+    "name": "Caribbean News Global",
+    "root_url": "caribbeannewsglobal.com",
+    "scope": "regional",
+    "country": [
+      "Panama"
+    ],
+    "region": [
+      "Caribbean"
+    ],
+    "political_slant": "independent",
+    "description": "Region-wide Caribbean news outlet with op-eds and analysis by named contributors.",
+    "ethnicity": "Afro-Antillean (West Indian)"
+  },
+  {
+    "name": "Caribbean Today",
+    "root_url": "caribbeantoday.com",
+    "scope": "regional",
+    "country": [
+      "Panama"
+    ],
+    "region": [
+      "Caribbean diaspora"
+    ],
+    "political_slant": "independent",
+    "description": "Miami-based Caribbean diaspora news magazine featuring columns, editorials, and commentary by named contributors.",
+    "ethnicity": "Afro-Antillean (West Indian)"
+  },
+  {
+    "name": "Coisas Judaicas",
+    "root_url": "coisasjudaicas.com",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Portuguese-language Jewish news portal that aggregates reports and publishes signed opinion pieces relevant to Brazilian Jews.",
+    "ethnicity": "Jewish Brazilians"
+  },
+  {
+    "name": "Comunità Italiana",
+    "root_url": "comunitaitaliana.com",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Brazil-based magazine for the Italian-Brazilian community featuring news, interviews, and bylined opinion columns.",
+    "ethnicity": "Italian Brazilians"
+  },
+  {
+    "name": "Concepción al Día",
+    "root_url": "concepcionaldia.com",
+    "scope": "regional",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [
+      "Concepción"
+    ],
+    "political_slant": "",
+    "description": "Concepción regional news portal including editorials and opinion articles signed by local contributors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "ConCriterio",
+    "root_url": "concriterio.gt",
+    "scope": "national",
+    "country": [
+      "Guatemala"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Investigative news and radio platform offering named columns and on-air commentary on politics, justice, and corruption.",
+    "ethnicity": "Ladino (Mestizo)"
+  },
+  {
+    "name": "Conexão Israel",
+    "root_url": "conexaoisrael.org",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Portuguese-language blog by Brazilian Israelis offering analysis and opinion on Israel and Jewish issues for a Brazilian readership.",
+    "ethnicity": "Jewish Brazilians"
+  },
+  {
+    "name": "Confidencial",
+    "root_url": "confidencial.digital",
+    "scope": "national",
+    "country": [
+      "Costa Rica",
+      "Nicaragua"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Independent Nicaraguan news magazine in exile publishing op-eds by named authors on the Nicaraguan exile community in Costa Rica.",
+    "ethnicity": [
+      "Nicaraguan diaspora in Costa Rica",
+      "Nicaraguans in Costa Rica"
+    ]
+  },
+  {
+    "name": "Contacto",
+    "root_url": "contacto.lu",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Weekly newspaper for the Portuguese diaspora that publishes signed columns and commentary on community issues.",
+    "ethnicity": "Portuguese"
+  },
+  {
+    "name": "Correio (Bahia)",
+    "root_url": "correio24horas.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Bahia"
+    ],
+    "political_slant": "",
+    "description": "Salvador-based outlet featuring signed columns and editorials on Bahia and national topics.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Correio da Venezuela",
+    "root_url": "correiodevenezuela.com",
+    "scope": "national",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Bilingual newspaper for Portuguese Venezuelans featuring community news and signed opinion columns.",
+    "ethnicity": "Portuguese Venezuelans"
+  },
+  {
+    "name": "Correio do Povo",
+    "root_url": "correiodopovo.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Rio Grande do Sul"
+    ],
+    "political_slant": "",
+    "description": "Porto Alegre daily featuring bylined columns and editorials on regional and national issues.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Correio Nagô",
+    "root_url": "correionago.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Bahia-based Black news portal publishing commentary and analysis aimed at Afro-Brazilian audiences.",
+    "ethnicity": "Afro-Brazilians"
+  },
+  {
+    "name": "Correo de Punta del Este",
+    "root_url": "correopuntadeleste.com",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [
+      "Maldonado Department (Punta del Este)"
+    ],
+    "political_slant": "independent",
+    "description": "Maldonado-based outlet covering local issues with signed opinion columns and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Correo del Caroní",
+    "root_url": "correodelcaroni.com",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Bolívar"
+    ],
+    "political_slant": "anti-government",
+    "description": "Ciudad Guayana-based regional paper with an active Opinión section by identifiable authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Correo del Sur",
+    "root_url": "correodelsur.com",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Chuquisaca"
+    ],
+    "political_slant": "independent",
+    "description": "Sucre-based daily for Chuquisaca with editorials and columns by identifiable authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Courrier des Amériques",
+    "root_url": "courrierdesameriques.com",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Francophone news site for the Americas offering commentary and opinion columns for French-speaking expatriates, including in South America.",
+    "ethnicity": "French"
+  },
+  {
+    "name": "Croatia Week",
+    "root_url": "croatiaweek.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "English-language news site on Croatia and its diaspora that runs bylined opinion and features, periodically including Chilean Croats.",
+    "ethnicity": [
+      "Croatian Bolivians",
+      "Croatian Chileans"
+    ]
+  },
+  {
+    "name": "CroExpress",
+    "root_url": "croexpress.eu",
+    "scope": "national",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Diaspora-focused news portal publishing interviews and opinion columns by named authors about Croats abroad, including Latin America.",
+    "ethnicity": "Croatian Bolivians"
+  },
+  {
+    "name": "Crónica",
+    "root_url": "cronica.com.gt",
+    "scope": "national",
+    "country": [
+      "Guatemala"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Digital news magazine in Spanish carrying signed opinion columns on politics, economy, and culture.",
+    "ethnicity": "Ladino (Mestizo)"
+  },
+  {
+    "name": "Crónica (Loja)",
+    "root_url": "cronica.com.ec",
+    "scope": "regional",
+    "country": [
+      "Ecuador"
+    ],
+    "region": [
+      "Loja (Loja)"
+    ],
+    "political_slant": "",
+    "description": "Loja regional daily publishing editorials and opinion columns with bylines.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Crónicas de la Emigración",
+    "root_url": "cronicasdelaemigracion.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Brazil",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Spanish diaspora newspaper covering Spaniards and descendants in Chile with signed opinion columns and community commentary.",
+    "ethnicity": [
+      "Spanish",
+      "Spanish Brazilians",
+      "Spanish Chileans",
+      "Spanish Venezuelans"
+    ]
+  },
+  {
+    "name": "Crónicas de la Emigración",
+    "root_url": "cronicasdelaemigracion.es",
+    "scope": "national",
+    "country": [
+      "Paraguay",
+      "Venezuela"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Online newspaper focused on Spanish diaspora communities with identifiable-author opinion pieces relevant to Spaniards in Paraguay.",
+    "ethnicity": [
+      "Canarian Venezuelans",
+      "Spanish-Paraguayan"
+    ]
+  },
+  {
+    "name": "Crónicas de la Emigración (España Exterior)",
+    "root_url": "cronicasdelaemigracion.com",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Spanish diaspora newspaper providing news and signed opinion on Spaniards abroad, with frequent coverage of Spanish-Argentine communities.",
+    "ethnicity": "Spanish Argentines"
+  },
+  {
+    "name": "Cultural Survival",
+    "root_url": "culturalsurvival.org",
+    "scope": "regional",
+    "country": [
+      "Panama"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Global Indigenous rights magazine with signed commentary and analysis that regularly addresses Central American and Panamanian Indigenous communities.",
+    "ethnicity": "Indian Panamanian"
+  },
+  {
+    "name": "Cóndor",
+    "root_url": "condor.cl",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "German-language weekly for the German-Chilean community featuring news, culture, and signed opinion columns.",
+    "ethnicity": "White Chileans"
+  },
+  {
+    "name": "Debate Indígena",
+    "root_url": "debateindigena.com",
+    "scope": "regional",
+    "country": [
+      "Colombia",
+      "Ecuador"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "left",
+    "description": "Latin American magazine devoted to Indigenous peoples’ public debate with essays and opinion columns by identifiable authors.",
+    "ethnicity": [
+      "Indigenous peoples of Colombia",
+      "Kichwa (Quechua)"
+    ]
+  },
+  {
+    "name": "Debates Indígenas",
+    "root_url": "debatesindigenas.org",
+    "scope": "national",
+    "country": [
+      "Panama",
+      "Paraguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Digital magazine dedicated to Indigenous peoples of Latin America featuring bylined analysis and opinion pieces, including topics on Panama’s native peoples.",
+    "ethnicity": [
+      "Guaraní",
+      "Indian Panamanian"
+    ]
+  },
+  {
+    "name": "Deia",
+    "root_url": "deia.eus",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "centrist, Basque nationalist",
+    "description": "Basque daily newspaper with op-eds and commentary that occasionally covers the diaspora and Chilean Basques.",
+    "ethnicity": [
+      "Basque",
+      "Basque Chileans"
+    ]
+  },
+  {
+    "name": "Desinformémonos",
+    "root_url": "desinformemonos.org",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Digital magazine on grassroots and Indigenous struggles across Latin America that publishes signed opinion and commentary.",
+    "ethnicity": "Indigenous peoples of Colombia"
+  },
+  {
+    "name": "Despacho 505",
+    "root_url": "despacho505.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica",
+      "Nicaragua"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Digital Nicaraguan outlet with named columnists covering migration, asylum, and diaspora life of Nicaraguans in Costa Rica.",
+    "ethnicity": [
+      "Nicaraguan diaspora in Costa Rica",
+      "Nicaraguans in Costa Rica"
+    ]
+  },
+  {
+    "name": "Diario ARMENIA",
+    "root_url": "diarioarmenia.org.ar",
+    "scope": "national",
+    "country": [
+      "Argentina",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "nationalist",
+    "description": "Newspaper of Argentina’s Armenian community featuring news, editorials, and signed opinion columns on Armenia and the diaspora.",
+    "ethnicity": [
+      "Armenian",
+      "Armenian Argentines"
+    ]
+  },
+  {
+    "name": "Diario Concepción",
+    "root_url": "diarioconcepcion.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región del Biobío"
+    ],
+    "political_slant": "independent",
+    "description": "Independent Concepción newspaper offering regional coverage and signed opinion and analysis.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario de Atacama",
+    "root_url": "diarioatacama.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región de Atacama"
+    ],
+    "political_slant": "",
+    "description": "Copiapó daily for Atacama featuring regional reporting and named opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario de Chimbote",
+    "root_url": "diariodechimbote.com",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Áncash"
+    ],
+    "political_slant": "",
+    "description": "Ancash-based daily from Chimbote offering editorials and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario de Cuyo",
+    "root_url": "diariodecuyo.com.ar",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "San Juan"
+    ],
+    "political_slant": "",
+    "description": "San Juan newspaper featuring editorials, op-eds, and analysis.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario de Yucatán",
+    "root_url": "yucatan.com.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Yucatán (Mérida)"
+    ],
+    "political_slant": "center-right",
+    "description": "Mérida-based daily known for editorials and signed opinion columns on Yucatán affairs.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario del Cusco",
+    "root_url": "diariodelcusco.pe",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Cusco"
+    ],
+    "political_slant": "",
+    "description": "Cusco regional newspaper that publishes editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario del Huila",
+    "root_url": "diariodelhuila.com",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Huila"
+    ],
+    "political_slant": "",
+    "description": "Neiva daily for Huila publishing editorials and opinion by identifiable authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario del Sur",
+    "root_url": "diariodelsur.com.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Nariño"
+    ],
+    "political_slant": "",
+    "description": "Pasto daily for Nariño publishing editorials and columns by named authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario El Pueblo",
+    "root_url": "diarioelpueblo.com.uy",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [
+      "Salto Department"
+    ],
+    "political_slant": "independent",
+    "description": "Regional daily from Salto publishing editorials and op-eds by named columnists.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario El Pueblo",
+    "root_url": "elpueblo.pe",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Arequipa"
+    ],
+    "political_slant": "",
+    "description": "Historic Arequipa newspaper featuring editorials and signed opinion columns on regional affairs.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario Judio",
+    "root_url": "diariojudio.com",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "pro-Israel",
+    "description": "Mexico-based Jewish digital newspaper featuring news and bylined opinion columns relevant to the Spanish-speaking diaspora.",
+    "ethnicity": "Jewish Bolivians"
+  },
+  {
+    "name": "Diario Judío",
+    "root_url": "diariojudio.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Honduras",
+      "Mexico",
+      "Panama",
+      "Peru",
+      "Uruguay"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "independent",
+    "description": "Spanish-language Jewish news and opinion site based in Mexico featuring bylined columns and analysis on Jewish communities, including Chile.",
+    "ethnicity": [
+      "Jewish",
+      "Jewish Chileans",
+      "Jewish Colombians",
+      "Jewish Costa Ricans",
+      "Jewish Hondurans",
+      "Jewish Mexicans",
+      "Jewish Panamanian",
+      "Jewish Peruvian"
+    ]
+  },
+  {
+    "name": "Diario La Clave",
+    "root_url": "diariolaclave.com.py",
+    "scope": "regional",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [
+      "Alto Paraná"
+    ],
+    "political_slant": "",
+    "description": "Local daily from Ciudad del Este with an Opinión section and signed commentaries on regional issues.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario La Jornada",
+    "root_url": "diariolajornada.com.py",
+    "scope": "regional",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [
+      "Alto Paraná"
+    ],
+    "political_slant": "",
+    "description": "Alto Paraná news site that publishes editorials and opinion columns with identifiable authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario La Región",
+    "root_url": "diariolaregion.com",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Loreto"
+    ],
+    "political_slant": "",
+    "description": "Iquitos-based regional newspaper for Loreto with editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario Opinión (Machala)",
+    "root_url": "opinion.com.ec",
+    "scope": "regional",
+    "country": [
+      "Ecuador"
+    ],
+    "region": [
+      "El Oro (Machala)"
+    ],
+    "political_slant": "",
+    "description": "Machala daily known for its editorial page and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario Roatán",
+    "root_url": "diarioroatan.com",
+    "scope": "regional",
+    "country": [
+      "Honduras"
+    ],
+    "region": [
+      "Islas de la Bahía (Bay Islands)"
+    ],
+    "political_slant": "",
+    "description": "Bay Islands–focused news site that publishes local commentary and signed opinion pieces alongside regional reporting.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario Río Negro",
+    "root_url": "rionegro.com.ar",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Río Negro/Neuquén (Patagonia)"
+    ],
+    "political_slant": "",
+    "description": "Patagonia-focused daily publishing signed opinion pieces and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diario Sirio Libanés",
+    "root_url": "diariosiriolibanes.com.ar",
+    "scope": "national",
+    "country": [
+      "Colombia",
+      "Argentina",
+      "Costa Rica",
+      "Bolivia",
+      "Cuba",
+      "Dominican Republic",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Argentine digital newspaper with signed opinion columns on the Syrian-Lebanese diaspora in Latin America, including community affairs and culture.",
+    "ethnicity": [
+      "Arab Argentines",
+      "Arab Colombians (Lebanese, Syrian, Palestinian)",
+      "Arab Cubans (Lebanese, Syrian, Palestinian)",
+      "Arab Peruvian (Lebanese/Syrian/Palestinian)",
+      "Arab Venezuelans (Syrian-Lebanese-Palestinian)",
+      "Arab-Dominican",
+      "Lebanese Bolivians",
+      "Lebanese Costa Ricans",
+      "Lebanese-Paraguayan",
+      "Syrian",
+      "Syrian-Lebanese Argentines",
+      "Syrian-Paraguayan"
+    ]
+  },
+  {
+    "name": "Diario Voces",
+    "root_url": "diariovoces.com.pe",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "San Martín"
+    ],
+    "political_slant": "",
+    "description": "Tarapoto-based regional newspaper with opinion columns and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Die Mennonitische Post",
+    "root_url": "mennonitischepost.ca",
+    "scope": "national",
+    "country": [
+      "Mexico"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Low German/High German newspaper serving Low German Mennonite communities across the Americas, with commentary and letters focused on colonies in Mexico.",
+    "ethnicity": "German Mennonites in Mexico"
+  },
+  {
+    "name": "Die Mennonitische Post",
+    "root_url": "mennopost.org",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "conservative",
+    "description": "German-language Mennonite weekly with bylined columns and letters covering Low German colonies in Bolivia and wider Latin America.",
+    "ethnicity": "German-speaking Mennonites"
+  },
+  {
+    "name": "Discover Nikkei",
+    "root_url": "discovernikkei.org",
+    "scope": "national",
+    "country": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Mexico",
+      "Paraguay",
+      "Peru"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "independent",
+    "description": "Transnational Nikkei news and commentary platform featuring signed essays and op-eds that include coverage of Japanese Argentines.",
+    "ethnicity": [
+      "Japanese Argentines",
+      "Japanese Bolivians",
+      "Japanese Brazilians",
+      "Japanese Mexicans",
+      "Japanese Peruvian (Nikkei)",
+      "Japanese-Paraguayan"
+    ]
+  },
+  {
+    "name": "Discover Nikkei (Español)",
+    "root_url": "es.discovernikkei.org",
+    "scope": "national",
+    "country": [
+      "Colombia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Transnational platform publishing signed essays and commentary by Nikkei authors, including pieces on Japanese Colombians and their diaspora.",
+    "ethnicity": "Japanese Colombians"
+  },
+  {
+    "name": "Divergentes",
+    "root_url": "divergentes.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica",
+      "Nicaragua"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Central American investigative magazine with an Opinión section featuring essays on Nicaraguan exiles and migrant rights in Costa Rica.",
+    "ethnicity": [
+      "Nicaraguan diaspora in Costa Rica",
+      "Nicaraguans in Costa Rica"
+    ]
+  },
+  {
+    "name": "Diálogo Chino",
+    "root_url": "dialogochino.net",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Spanish-language outlet covering China–Latin America with bylined analysis and commentary that often includes Argentina-focused community debates.",
+    "ethnicity": "Chinese Argentines"
+  },
+  {
+    "name": "Diário de Pernambuco",
+    "root_url": "diariodepernambuco.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Pernambuco"
+    ],
+    "political_slant": "",
+    "description": "Historic Recife daily featuring named columnists and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Diário do Nordeste",
+    "root_url": "diariodonordeste.verdesmares.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Ceará"
+    ],
+    "political_slant": "",
+    "description": "Fortaleza daily from Sistema Verdes Mares publishing editorials and bylined opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Dominicanos en España",
+    "root_url": "dominicanosenespana.blogspot.com",
+    "scope": "national",
+    "country": [
+      "Dominican Republic"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Blog de noticias y análisis sobre la comunidad dominicana en España que publica artículos de opinión con autor identificado.",
+    "ethnicity": "Dominicans in Spain"
+  },
+  {
+    "name": "Domovina",
+    "root_url": "domovina.net",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Croatian opinion and news portal with identifiable columnists that covers diaspora topics, sometimes featuring Chilean Croat issues.",
+    "ethnicity": "Croatian Chileans"
+  },
+  {
+    "name": "Efecto Cocuyo",
+    "root_url": "efectococuyo.com",
+    "scope": "regional",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Independent Venezuelan newsroom with an Opinión section of bylined columns that inform Venezuelans abroad, including those in Costa Rica.",
+    "ethnicity": "Venezuelan diaspora in Costa Rica"
+  },
+  {
+    "name": "El Acontecer",
+    "root_url": "elacontecer.com.uy",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [
+      "Durazno Department"
+    ],
+    "political_slant": "independent",
+    "description": "Durazno daily that runs editorials and commentary columns by local writers.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Afro",
+    "root_url": "elafro.org",
+    "scope": "national",
+    "country": [
+      "Colombia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Digital news outlet centered on Afro-descendant issues in Colombia and the diaspora, publishing opinion and analysis by named contributors.",
+    "ethnicity": "Afro-Colombians"
+  },
+  {
+    "name": "El Alteño",
+    "root_url": "elalteno.com.bo",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "La Paz (El Alto)"
+    ],
+    "political_slant": "independent",
+    "description": "El Alto-focused daily in La Paz department with editorials and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Ancasti",
+    "root_url": "elancasti.com.ar",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Catamarca"
+    ],
+    "political_slant": "",
+    "description": "Catamarca daily publishing signed opinion articles and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Artemiseño",
+    "root_url": "elartemiseno.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Artemisa"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Artemisa featuring local reporting, editorials, and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Austral de Temuco",
+    "root_url": "australtemuco.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región de La Araucanía"
+    ],
+    "political_slant": "center-right",
+    "description": "Temuco-based daily for La Araucanía featuring local news and signed opinion sections.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Austral de Valdivia",
+    "root_url": "australvaldivia.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región de Los Ríos"
+    ],
+    "political_slant": "center-right",
+    "description": "Valdivia daily for Los Ríos publishing local news and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Búho",
+    "root_url": "elbuho.pe",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Arequipa"
+    ],
+    "political_slant": "independent",
+    "description": "Arequipa-based investigative magazine and news site with signed opinion columns and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Carabobeño",
+    "root_url": "el-carabobeno.com",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Carabobo"
+    ],
+    "political_slant": "anti-government",
+    "description": "Valencia-based regional newspaper with regular opinion pieces by identifiable authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Chaco Informa",
+    "root_url": "elchacoinforma.com",
+    "scope": "regional",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [
+      "Gran Chaco"
+    ],
+    "political_slant": "",
+    "description": "Regional news site for the Gran Chaco that publishes bylined opinion pieces on cross-border Guaraní communities including Paraguay.",
+    "ethnicity": "Guaraní"
+  },
+  {
+    "name": "El Colombiano",
+    "root_url": "elcolombiano.com",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Antioquia"
+    ],
+    "political_slant": "center-right",
+    "description": "Major Medellín daily covering Antioquia with editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Correo del Moai",
+    "root_url": "facebook.com",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Rapa Nui–focused digital news outlet publishing local news and signed opinion pieces on the island’s society, culture, and governance.",
+    "ethnicity": "Rapa Nui (Easter Island)"
+  },
+  {
+    "name": "El Deber",
+    "root_url": "eldeber.com.bo",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Santa Cruz"
+    ],
+    "political_slant": "center-right",
+    "description": "Leading Santa Cruz daily covering eastern Bolivia with regular editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Diario",
+    "root_url": "eldiario.com.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Risaralda"
+    ],
+    "political_slant": "",
+    "description": "Pereira daily for Risaralda featuring editorials and signed columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Diario (Manabí)",
+    "root_url": "eldiario.ec",
+    "scope": "regional",
+    "country": [
+      "Ecuador"
+    ],
+    "region": [
+      "Manabí (Portoviejo)"
+    ],
+    "political_slant": "",
+    "description": "Manabí daily covering the province with editorials and bylined opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Diario de Chihuahua",
+    "root_url": "eldiariodechihuahua.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Chihuahua (Chihuahua City)"
+    ],
+    "political_slant": "",
+    "description": "Chihuahua City daily featuring local editorials and named opinion columnists.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Diario Sirio-Libanés",
+    "root_url": "eldiariosiriolibanes.com.ar",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Latin American news outlet for the Syrian-Lebanese diaspora featuring bylined editorials and opinion pieces relevant to communities in Chile.",
+    "ethnicity": "Syrian Chileans"
+  },
+  {
+    "name": "El Día",
+    "root_url": "diarioeldia.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región de Coquimbo"
+    ],
+    "political_slant": "",
+    "description": "La Serena daily serving Coquimbo with news coverage and identifiable opinion authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Día",
+    "root_url": "eldia.com",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Buenos Aires Province (La Plata)"
+    ],
+    "political_slant": "",
+    "description": "La Plata’s leading daily with editorials, columns, and letters to the editor.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Día",
+    "root_url": "eldia.com.bo",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Santa Cruz"
+    ],
+    "political_slant": "center-right",
+    "description": "Santa Cruz daily known for its opinion pages and named columnists.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Eco Digital",
+    "root_url": "elecodigital.com.uy",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [
+      "Colonia Department (Nueva Palmira)"
+    ],
+    "political_slant": "independent",
+    "description": "Colonia news site featuring signed opinion pieces and commentary on departmental matters.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Heraldo",
+    "root_url": "elheraldo.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Atlántico"
+    ],
+    "political_slant": "",
+    "description": "Barranquilla-based daily for Atlántico and the Caribbean coast featuring editorials and signed columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Heraldo (Ambato)",
+    "root_url": "elheraldo.com.ec",
+    "scope": "regional",
+    "country": [
+      "Ecuador"
+    ],
+    "region": [
+      "Tungurahua (Ambato)"
+    ],
+    "political_slant": "",
+    "description": "Ambato newspaper that publishes editorials and columns by identifiable authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Imparcial",
+    "root_url": "elimparcial.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Sonora (Hermosillo)"
+    ],
+    "political_slant": "independent",
+    "description": "Hermosillo-based daily from Grupo Healy with signed opinion columns and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Imparcial (La Mixteca)",
+    "root_url": "imparcialoaxaca.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Mixteca (Oaxaca)"
+    ],
+    "political_slant": "center",
+    "description": "Regional coverage by El Imparcial focused on the Mixteca area, featuring identifiable-author opinion pieces on Mixtec affairs.",
+    "ethnicity": "Mixtec"
+  },
+  {
+    "name": "EL IMPULSO",
+    "root_url": "elimpulso.com",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Lara"
+    ],
+    "political_slant": "anti-government",
+    "description": "Barquisimeto daily serving Lara that runs editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Informador",
+    "root_url": "elinformador.com.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Magdalena"
+    ],
+    "political_slant": "",
+    "description": "Santa Marta daily for Magdalena featuring editorials and opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Informador",
+    "root_url": "informador.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Jalisco (Guadalajara)"
+    ],
+    "political_slant": "",
+    "description": "Historic Guadalajara newspaper offering editorials and signed opinion columns on Jalisco and national issues.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Isleño",
+    "root_url": "elisleno.com.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Local newspaper of San Andrés and Providencia that publishes news and signed opinion columns on Raizal community and archipelago affairs.",
+    "ethnicity": "Raizal people (San Andrés and Providencia)"
+  },
+  {
+    "name": "EL Jaya",
+    "root_url": "eljaya.com",
+    "scope": "regional",
+    "country": [
+      "Dominican Republic"
+    ],
+    "region": [
+      "Cibao (San Francisco de Macorís, Duarte)"
+    ],
+    "political_slant": "independent",
+    "description": "San Francisco de Macorís outlet with regional coverage and signed editorials and opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Liberal",
+    "root_url": "elliberal.com.ar",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Santiago del Estero"
+    ],
+    "political_slant": "",
+    "description": "Santiago del Estero daily with a dedicated Opinión section and signed columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Liberal",
+    "root_url": "elliberal.com.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Cauca"
+    ],
+    "political_slant": "",
+    "description": "Popayán daily for Cauca featuring editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Litoral",
+    "root_url": "ellitoral.com",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Santa Fe"
+    ],
+    "political_slant": "",
+    "description": "Santa Fe city daily with editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Llanquihue",
+    "root_url": "ellanquihue.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región de Los Lagos"
+    ],
+    "political_slant": "center-right",
+    "description": "Puerto Montt daily for Los Lagos with reporting, editorials, and named columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Mercurio (Cuenca)",
+    "root_url": "elmercurio.com.ec",
+    "scope": "regional",
+    "country": [
+      "Ecuador"
+    ],
+    "region": [
+      "Azuay (Cuenca)"
+    ],
+    "political_slant": "",
+    "description": "Cuenca-based daily newspaper with editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Mercurio de Antofagasta",
+    "root_url": "mercurioantofagasta.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región de Antofagasta"
+    ],
+    "political_slant": "center-right",
+    "description": "Antofagasta daily with regional coverage, editorials, and signed op-eds.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Mercurio de Valparaíso",
+    "root_url": "mercuriovalpo.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región de Valparaíso"
+    ],
+    "political_slant": "center-right",
+    "description": "Historic Valparaíso daily publishing editorials and signed opinion columns on regional affairs.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Meridiano",
+    "root_url": "elmeridiano.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Córdoba"
+    ],
+    "political_slant": "",
+    "description": "Montería daily for Córdoba with editorials and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Norte",
+    "root_url": "elnorte.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Nuevo León (Monterrey)"
+    ],
+    "political_slant": "center-right",
+    "description": "Monterrey daily from Grupo Reforma with a robust Opinión section featuring named columnists and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Norte (Ibarra)",
+    "root_url": "elnorte.ec",
+    "scope": "regional",
+    "country": [
+      "Ecuador"
+    ],
+    "region": [
+      "Imbabura (Ibarra)"
+    ],
+    "political_slant": "",
+    "description": "Ibarra-based newspaper with editorials and signed opinion articles.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Nuevo Día",
+    "root_url": "elnuevodia.com.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Tolima"
+    ],
+    "political_slant": "",
+    "description": "Ibagué daily serving Tolima with editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Occidental",
+    "root_url": "eloccidental.com.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Jalisco (Guadalajara)"
+    ],
+    "political_slant": "",
+    "description": "Guadalajara daily from OEM with editorials and opinion columns by named authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El País",
+    "root_url": "elpais.bo",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Tarija"
+    ],
+    "political_slant": "independent",
+    "description": "Tarija daily with a prominent opinion section and named contributors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El País",
+    "root_url": "elpais.com.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Valle del Cauca"
+    ],
+    "political_slant": "",
+    "description": "Cali daily serving Valle del Cauca with editorials and named columnists.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El País (Honduras)",
+    "root_url": "elpais.hn",
+    "scope": "regional",
+    "country": [
+      "Honduras"
+    ],
+    "region": [
+      "San Pedro Sula / Cortés (Northwest)"
+    ],
+    "political_slant": "center-right",
+    "description": "San Pedro Sula–based daily covering the Valle de Sula and northwest, with an Opinion section featuring editorials and signed columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Periodiquito",
+    "root_url": "elperiodiquito.com",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Aragua"
+    ],
+    "political_slant": "independent",
+    "description": "Aragua regional daily that publishes opinion columns and editorials by named writers.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Periódico de Tarija",
+    "root_url": "elperiodico-digital.com",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Tarija"
+    ],
+    "political_slant": "independent",
+    "description": "Tarija daily with editorials and bylined opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Pilón",
+    "root_url": "elpilon.com.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Cesar"
+    ],
+    "political_slant": "",
+    "description": "Valledupar daily for Cesar with editorials and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Potosí",
+    "root_url": "elpotosi.net",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Potosí"
+    ],
+    "political_slant": "independent",
+    "description": "Potosí daily publishing editorials, columns, and letters with bylines.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Quetzalteco",
+    "root_url": "elquetzalteco.com.gt",
+    "scope": "regional",
+    "country": [
+      "Guatemala"
+    ],
+    "region": [
+      "Quetzaltenango"
+    ],
+    "political_slant": "independent",
+    "description": "Regional newspaper for Quetzaltenango and the western highlands, publishing editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Rancagüino",
+    "root_url": "elrancaguino.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región de O'Higgins"
+    ],
+    "political_slant": "",
+    "description": "Rancagua daily for O'Higgins publishing news, editorials, and signed columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Salvador Day",
+    "root_url": "elsalvadorday.com",
+    "scope": "national",
+    "country": [
+      "El Salvador"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Digital news site dedicated to Salvadoran communities in the U.S., featuring diaspora coverage and signed opinion columns linked to El Salvador.",
+    "ethnicity": "Salvadoran Americans"
+  },
+  {
+    "name": "El Siglo",
+    "root_url": "elsiglo.com.ve",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Aragua"
+    ],
+    "political_slant": "independent",
+    "description": "Maracay-based regional newspaper with identifiable authors in its Opinión section.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Siglo de Torreón",
+    "root_url": "elsiglodetorreon.com.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Coahuila/Durango (Comarca Lagunera)"
+    ],
+    "political_slant": "independent",
+    "description": "Torreón-based daily covering the Comarca Lagunera with editorials and signed columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Sol de la Mixteca",
+    "root_url": "elsoldelamixteca.com.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Mixteca (Oaxaca)"
+    ],
+    "political_slant": "center-right",
+    "description": "OEM-owned daily serving the Mixteca region with news and signed opinion columns on local Mixtec community issues.",
+    "ethnicity": "Mixtec"
+  },
+  {
+    "name": "El Sol de Margarita",
+    "root_url": "elsoldemargarita.com.ve",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Nueva Esparta"
+    ],
+    "political_slant": "independent",
+    "description": "Nueva Esparta outlet focused on Margarita Island with signed opinion pieces and columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Sol de Occidente",
+    "root_url": "elsoldeoccidente.com",
+    "scope": "regional",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [
+      "Occidente (Western Alajuela)"
+    ],
+    "political_slant": "independent",
+    "description": "Regional weekly covering San Ramón, Palmares, Naranjo, and nearby cantons, including editorials and community opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Sol de Puebla",
+    "root_url": "elsoldepuebla.com.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Puebla"
+    ],
+    "political_slant": "",
+    "description": "Puebla daily from OEM featuring editorials and signed columns on state and local issues.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Sol de Santiago",
+    "root_url": "elsoldesantiago.com",
+    "scope": "regional",
+    "country": [
+      "Dominican Republic"
+    ],
+    "region": [
+      "Cibao (Santiago de los Caballeros)"
+    ],
+    "political_slant": "independent",
+    "description": "Santiago-focused digital newspaper publishing local news and signed opinion pieces by identifiable authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Sol Dominicano",
+    "root_url": "elsoldominicano.com",
+    "scope": "national",
+    "country": [
+      "Dominican Republic"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Periódico dominicano radicado en España centrado en la comunidad dominicana en España, con columnas de opinión firmadas.",
+    "ethnicity": "Dominicans in Spain"
+  },
+  {
+    "name": "El Sur",
+    "root_url": "elsur.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región del Biobío"
+    ],
+    "political_slant": "center-right",
+    "description": "Concepción daily covering Biobío with news reporting and named op-ed contributors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Tecolote",
+    "root_url": "eltecolote.org",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "California (San Francisco Bay Area)"
+    ],
+    "political_slant": "left",
+    "description": "Bilingual community newspaper centered on San Francisco’s Mission District Mexican-American and Latino communities with signed opinion essays.",
+    "ethnicity": "Mexican Americans"
+  },
+  {
+    "name": "El Telégrafo",
+    "root_url": "eltelegrafo.com.uy",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [
+      "Paysandú Department"
+    ],
+    "political_slant": "independent",
+    "description": "Historic daily of Paysandú with signed columns and editorials on local and national affairs.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Territorio",
+    "root_url": "elterritorio.com.ar",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Misiones"
+    ],
+    "political_slant": "",
+    "description": "Misiones newspaper offering opinion, editorials, and local commentary.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Tiempo",
+    "root_url": "eltiempo.com.do",
+    "scope": "regional",
+    "country": [
+      "Dominican Republic"
+    ],
+    "region": [
+      "Eastern Region (La Altagracia, Punta Cana/Bávaro)"
+    ],
+    "political_slant": "independent",
+    "description": "Regional newspaper for the Eastern corridor that runs signed opinion columns and commentary by local contributors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Tiempo",
+    "root_url": "eltiempo.com.ve",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Anzoátegui"
+    ],
+    "political_slant": "independent",
+    "description": "Anzoátegui newspaper that publishes signed opinion articles and commentaries.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Tiempo",
+    "root_url": "eltiempo.pe",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Piura"
+    ],
+    "political_slant": "",
+    "description": "Piura’s regional newspaper publishing opinion columns and editorials by local writers.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Tribuno",
+    "root_url": "eltribuno.com",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Salta"
+    ],
+    "political_slant": "",
+    "description": "Salta newspaper publishing opinion columns and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Universal",
+    "root_url": "eluniversal.com.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Bolívar"
+    ],
+    "political_slant": "",
+    "description": "Cartagena daily covering Bolívar and the Caribbean with editorials and opinion by named columnists.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Urbano",
+    "root_url": "elurbano.com.py",
+    "scope": "regional",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [
+      "Alto Paraná"
+    ],
+    "political_slant": "",
+    "description": "Ciudad del Este-based digital magazine publishing analysis and opinion pieces with clear bylines.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "El Venezolano News",
+    "root_url": "elvenezolanonews.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica",
+      "Panama"
+    ],
+    "region": [],
+    "political_slant": "anti-government",
+    "description": "Transnational Venezuelan diaspora outlet with signed opinion columns on migration and politics followed by Venezuelans in Costa Rica.",
+    "ethnicity": [
+      "Venezuelan Panamanian",
+      "Venezuelan diaspora in Costa Rica"
+    ]
+  },
+  {
+    "name": "El Venezolano Panamá",
+    "root_url": "issuu.com",
+    "scope": "national",
+    "country": [
+      "Panama"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Panama edition of a Venezuelan diaspora newspaper featuring bylined opinion columns on migration, politics, and community issues for Venezuelans in Panama.",
+    "ethnicity": "Venezuelan Panamanian"
+  },
+  {
+    "name": "Enab Baladi",
+    "root_url": "enabbaladi.net",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Independent Syrian newspaper featuring analysis and opinion pieces with bylines on Syrian society, politics, and diaspora issues.",
+    "ethnicity": "Syrian"
+  },
+  {
+    "name": "Enlace Judío",
+    "root_url": "enlacejudio.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Bolivia",
+      "Honduras",
+      "Mexico",
+      "Panama",
+      "Peru",
+      "Uruguay"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "independent",
+    "description": "Mexico-based Spanish-language Jewish news outlet with bylined opinion pieces covering Latin American Jewish issues including Chile.",
+    "ethnicity": [
+      "Jewish",
+      "Jewish Bolivians",
+      "Jewish Chileans",
+      "Jewish Colombians",
+      "Jewish Costa Ricans",
+      "Jewish Hondurans",
+      "Jewish Mexicans",
+      "Jewish Panamanian",
+      "Jewish Peruvian"
+    ]
+  },
+  {
+    "name": "ERBOL",
+    "root_url": "erbol.com.bo",
+    "scope": "national",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Community-rooted Bolivian news network serving indigenous audiences, publishing editorials and op-eds with bylines on Quechua issues.",
+    "ethnicity": "Quechua"
+  },
+  {
+    "name": "ERBOL Aymara",
+    "root_url": "erbol.com.bo",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "ERBOL’s Aymara-language portal offering news and signed commentary on Aymara communities in the Altiplano and El Alto.",
+    "ethnicity": "Aymara"
+  },
+  {
+    "name": "Escambray",
+    "root_url": "escambray.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Sancti Spíritus"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Sancti Spíritus with local coverage, editorials, and signed commentaries.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "España Exterior",
+    "root_url": "espanaexterior.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Brazil",
+      "Paraguay",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "News outlet for Spaniards abroad that reports on Chile’s Spanish community and publishes op-eds by named contributors.",
+    "ethnicity": [
+      "Spanish",
+      "Spanish Brazilians",
+      "Spanish Chileans",
+      "Spanish Venezuelans",
+      "Spanish-Paraguayan"
+    ]
+  },
+  {
+    "name": "Estado de Minas",
+    "root_url": "em.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Minas Gerais"
+    ],
+    "political_slant": "",
+    "description": "Belo Horizonte-based daily from Diários Associados with editorials and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "EuskalKultura",
+    "root_url": "euskalkultura.eus",
+    "scope": "national",
+    "country": [
+      "Argentina",
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Basque diaspora news outlet featuring reported pieces and opinion columns on Basque-Argentine community culture and issues.",
+    "ethnicity": [
+      "Basque Argentines",
+      "Spanish Argentines",
+      "Spanish Brazilians"
+    ]
+  },
+  {
+    "name": "EuskalKultura.eus",
+    "root_url": "euskalkultura.eus",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Basque diaspora news site with bylined opinion and coverage of Basque communities worldwide, including Chile.",
+    "ethnicity": [
+      "Basque",
+      "Basque Chileans"
+    ]
+  },
+  {
+    "name": "EuskoNews",
+    "root_url": "euskonews.eus",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Online magazine of Eusko Ikaskuntza featuring essays and opinion on Basque culture and diaspora, including Latin America and Chile.",
+    "ethnicity": [
+      "Basque Argentines",
+      "Basque Chileans"
+    ]
+  },
+  {
+    "name": "EVTV Miami",
+    "root_url": "evtv.online",
+    "scope": "regional",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "anti-government",
+    "description": "Venezuelan diaspora news channel and site featuring authored opinion pieces and commentary relevant to expatriates in Costa Rica.",
+    "ethnicity": "Venezuelan diaspora in Costa Rica"
+  },
+  {
+    "name": "Executive Magazine",
+    "root_url": "executive-magazine.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "center",
+    "description": "Beirut-based business and policy magazine with bylined analysis and editorials that inform Lebanese diaspora discourse in Costa Rica.",
+    "ethnicity": [
+      "Lebanese",
+      "Lebanese Costa Ricans"
+    ]
+  },
+  {
+    "name": "Expresso das Ilhas",
+    "root_url": "expressodasilhas.cv",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Cape Verdean weekly news magazine featuring authored editorials and op-eds on Cape Verdeans at home and abroad, including Argentina.",
+    "ethnicity": "Cape Verdean Argentines"
+  },
+  {
+    "name": "Florida Diario",
+    "root_url": "floridadiario.com.uy",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [
+      "Florida Department"
+    ],
+    "political_slant": "independent",
+    "description": "Digital newspaper for Florida Department with opinion articles and signed columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Folha Judaica",
+    "root_url": "folhajudaica.com",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "São Paulo"
+    ],
+    "political_slant": "independent",
+    "description": "Jewish newspaper serving São Paulo’s community with reporting and signed commentary.",
+    "ethnicity": "Jewish Brazilians"
+  },
+  {
+    "name": "Foro Judío",
+    "root_url": "forojudio.com",
+    "scope": "national",
+    "country": [
+      "Mexico"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Mexican Jewish community news and commentary site publishing analysis and opinion with identifiable authors.",
+    "ethnicity": "Jewish Mexicans"
+  },
+  {
+    "name": "Français à l’étranger",
+    "root_url": "francaisaletranger.fr",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "News magazine for French abroad covering consular and community affairs with bylined opinion pieces relevant to French in Uruguay.",
+    "ethnicity": "French"
+  },
+  {
+    "name": "Frontera",
+    "root_url": "frontera.info",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Baja California (Tijuana)"
+    ],
+    "political_slant": "independent",
+    "description": "Tijuana daily from Grupo Healy with signed columns and local editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Garifuna.com",
+    "root_url": "garifuna.com",
+    "scope": "regional",
+    "country": [
+      "Honduras"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Garifuna diaspora media site publishing news and opinion articles by identified contributors, including issues affecting Honduras.",
+    "ethnicity": "Garifuna"
+  },
+  {
+    "name": "Garinet Global",
+    "root_url": "garinet.com",
+    "scope": "regional",
+    "country": [
+      "Honduras"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Long-running Garifuna-focused news portal featuring articles and opinion columns with author credits on Central America and the diaspora.",
+    "ethnicity": "Garifuna"
+  },
+  {
+    "name": "Gente d'Italia",
+    "root_url": "genteditalia.com",
+    "scope": "national",
+    "country": [
+      "Argentina",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Montevideo-based daily covering the Italian diaspora in South America with bylined opinion pieces relevant to Italian Argentines.",
+    "ethnicity": [
+      "Italian",
+      "Italian Argentines"
+    ]
+  },
+  {
+    "name": "Gente d'Italia",
+    "root_url": "genteditalia.org",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Bolivia",
+      "Mexico",
+      "Paraguay",
+      "Peru",
+      "Venezuela"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "independent",
+    "description": "Italian South American news site with bylined opinion columns and coverage of Italian communities across the region, including Chile.",
+    "ethnicity": [
+      "Italian Bolivians",
+      "Italian Chileans",
+      "Italian Colombians",
+      "Italian Costa Ricans",
+      "Italian Mexicans",
+      "Italian Peruvian",
+      "Italian Venezuelans",
+      "Italian-Paraguayan"
+    ]
+  },
+  {
+    "name": "Girón",
+    "root_url": "giron.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Matanzas"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Matanzas that runs news, editorials, and opinion columns with named authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Greek City Times",
+    "root_url": "greekcitytimes.com",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "English-language Greek news and culture outlet featuring bylined commentary and features on diaspora topics, sometimes covering Latin America.",
+    "ethnicity": "Greek Chileans"
+  },
+  {
+    "name": "Greek Reporter",
+    "root_url": "greekreporter.com",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Global Greek diaspora news outlet with bylined commentary and analysis covering Hellenic communities worldwide, including Latin America.",
+    "ethnicity": "Greek Chileans"
+  },
+  {
+    "name": "Guerrillero",
+    "root_url": "guerrillero.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Pinar del Río"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Pinar del Río publishing local news, editorials, and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "GZH (Zero Hora)",
+    "root_url": "gzh.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Rio Grande do Sul"
+    ],
+    "political_slant": "",
+    "description": "Porto Alegre-based daily covering Rio Grande do Sul with editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Haaretz",
+    "root_url": "haaretz.com",
+    "scope": "national",
+    "country": [
+      "Cuba"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Israeli newspaper with robust opinion pages and columns that at times address Jewish communities in Cuba",
+    "ethnicity": "Jewish Cubans"
+  },
+  {
+    "name": "Haiti Standard",
+    "root_url": "haitistandard.com",
+    "scope": "regional",
+    "country": [
+      "Haiti"
+    ],
+    "region": [
+      "Nord"
+    ],
+    "political_slant": "",
+    "description": "Cap-Haïtien–based online news outlet covering the North and national affairs, publishing reported pieces and signed commentary.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Haïti en Marche",
+    "root_url": "haitienmarche.com",
+    "scope": "national",
+    "country": [
+      "Brazil",
+      "Haiti"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Diaspora weekly with editorials and signed opinion pieces on Haitian affairs and the diaspora, sometimes covering Haitians in Brazil.",
+    "ethnicity": [
+      "Haitian American",
+      "Haitian Brazilians",
+      "Haitian Canadian"
+    ]
+  },
+  {
+    "name": "Haïti Liberté",
+    "root_url": "haitiliberte.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Dominican Republic",
+      "Haiti"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Diaspora weekly with bylined opinion and investigations covering Haitian migration in Latin America, including Chile.",
+    "ethnicity": [
+      "Afro-Haitian",
+      "Haitian American",
+      "Haitian Canadian",
+      "Haitian immigrants in Chile",
+      "Haitian-Dominican",
+      "Haitians in French Guiana"
+    ]
+  },
+  {
+    "name": "Haïti Observateur",
+    "root_url": "haiti-observateur.ca",
+    "scope": "national",
+    "country": [
+      "Haiti"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Diaspora-focused Haitian weekly featuring signed columns and commentary on Haitian politics and Haitian American issues.",
+    "ethnicity": "Haitian American"
+  },
+  {
+    "name": "Haïti Progrès",
+    "root_url": "haitiprogres.com",
+    "scope": "national",
+    "country": [
+      "Haiti"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "New York-based Haitian weekly for diaspora readers featuring news and signed opinion pieces on Haiti and Haitian Americans.",
+    "ethnicity": [
+      "Haitian American",
+      "Haitian Canadian"
+    ]
+  },
+  {
+    "name": "Hellenic News of America",
+    "root_url": "hellenicnews.com",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Greek-American diaspora news platform with bylined opinion and community commentary that can include Latin American Greek communities.",
+    "ethnicity": "Greek Chileans"
+  },
+  {
+    "name": "Horizon Weekly",
+    "root_url": "horizonweekly.ca",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "center-left",
+    "description": "Canada-based Armenian diaspora newspaper featuring opinion columns and analysis by identifiable authors on Armenian topics worldwide.",
+    "ethnicity": "Armenian"
+  },
+  {
+    "name": "Howler Magazine",
+    "root_url": "howlermag.com",
+    "scope": "regional",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [
+      "Guanacaste"
+    ],
+    "political_slant": "",
+    "description": "Guanacaste-based English-language magazine popular with U.S. expats that publishes columns and editorials by identifiable authors.",
+    "ethnicity": "United States expatriates in Costa Rica"
+  },
+  {
+    "name": "ICN Diario",
+    "root_url": "icndiario.com",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Spanish-language news site on Chinese diaspora in Latin countries that publishes bylined opinion and commentary including pieces on Chinese Argentines.",
+    "ethnicity": "Chinese Argentines"
+  },
+  {
+    "name": "Il Corriere di Caracas",
+    "root_url": "ilcorrieredicaracas.com",
+    "scope": "national",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Italian-language news outlet for the Italian Venezuelan community that features commentary and columns with identifiable authors.",
+    "ethnicity": "Italian Venezuelans"
+  },
+  {
+    "name": "InfoAmazonia",
+    "root_url": "infoamazonia.org",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Amazon-focused news and data platform featuring authored analyses and commentary on Yanomami territory, mercury contamination, and mining pressures.",
+    "ethnicity": "Yanomami"
+  },
+  {
+    "name": "Invasor",
+    "root_url": "invasor.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Ciego de Ávila"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Ciego de Ávila offering news, editorials, and bylined opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "ItaliaChiamaItalia",
+    "root_url": "italiachiamaitalia.it",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Colombia",
+      "Argentina",
+      "Costa Rica",
+      "Bolivia",
+      "Mexico",
+      "Paraguay",
+      "Peru",
+      "Uruguay",
+      "Venezuela"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "center-right",
+    "description": "Italy-based online magazine focused on Italians abroad with regular bylined opinion pieces and coverage of Latin America and Chile.",
+    "ethnicity": [
+      "Italian",
+      "Italian Argentines",
+      "Italian Bolivians",
+      "Italian Chileans",
+      "Italian Colombians",
+      "Italian Costa Ricans",
+      "Italian Mexicans",
+      "Italian Peruvian",
+      "Italian Venezuelans",
+      "Italian-Paraguayan"
+    ]
+  },
+  {
+    "name": "Italianismo",
+    "root_url": "italianismo.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Brazilian site on Italy and the Italian diaspora that publishes bylined features and opinion relevant to Italian Brazilians.",
+    "ethnicity": "Italian Brazilians"
+  },
+  {
+    "name": "Itapúa en Noticias",
+    "root_url": "itapuanoticias.tv",
+    "scope": "regional",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [
+      "Itapúa"
+    ],
+    "political_slant": "",
+    "description": "Encarnación-based regional news site that publishes signed opinion and commentary on local affairs.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Iton Gadol",
+    "root_url": "itongadol.com.ar",
+    "scope": "regional",
+    "country": [
+      "Chile",
+      "Honduras"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Argentine-based Jewish news outlet that publishes bylined opinion and coverage of the regional Jewish diaspora.",
+    "ethnicity": [
+      "Jewish Chileans",
+      "Jewish Hondurans"
+    ]
+  },
+  {
+    "name": "Itón Gadol",
+    "root_url": "itongadol.com.ar",
+    "scope": "national",
+    "country": [
+      "Colombia",
+      "Argentina",
+      "Costa Rica",
+      "Bolivia",
+      "Panama",
+      "Peru"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "independent",
+    "description": "Argentine-based Jewish news site for Latin America with bylined opinion articles and regional coverage including Colombia.",
+    "ethnicity": [
+      "Jewish Argentines",
+      "Jewish Bolivians",
+      "Jewish Colombians",
+      "Jewish Costa Ricans",
+      "Jewish Panamanian",
+      "Jewish Peruvian"
+    ]
+  },
+  {
+    "name": "Japón Hoy",
+    "root_url": "japon-hoy.com.ar",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Argentina-based news and magazine site about the Japanese-Argentine community and Japan, with interviews and opinion pieces by identifiable authors.",
+    "ethnicity": "Japanese Argentines"
+  },
+  {
+    "name": "Jewish Journal",
+    "root_url": "jewishjournal.com",
+    "scope": "national",
+    "country": [
+      "Cuba"
+    ],
+    "region": [],
+    "political_slant": "center-left",
+    "description": "Los Angeles-based Jewish newspaper with signed opinion columns that sometimes cover Cuba’s Jewish community",
+    "ethnicity": "Jewish Cubans"
+  },
+  {
+    "name": "Jornada",
+    "root_url": "jornada.com.pe",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Ayacucho"
+    ],
+    "political_slant": "",
+    "description": "Ayacucho regional newspaper with editorials and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Jornal da Paraíba",
+    "root_url": "jornaldaparaiba.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Paraíba"
+    ],
+    "political_slant": "",
+    "description": "Paraíba news site publishing editorials and bylined opinion pieces on state and regional affairs.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Jornal de Pomerode",
+    "root_url": "jornaldepomerode.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Local newspaper in Pomerode (SC) serving a predominantly German-Brazilian audience with signed columns and editorials.",
+    "ethnicity": "German Brazilians"
+  },
+  {
+    "name": "Jornal do Commercio (PE)",
+    "root_url": "jc.ne10.uol.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Pernambuco"
+    ],
+    "political_slant": "",
+    "description": "Recife daily newspaper with editorials and signed columns on Pernambuco and Brazil.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Jornal Nippak",
+    "root_url": "jnippak.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Newspaper and website serving the Japanese-Brazilian community with news and bylined opinion columns and commentary.",
+    "ethnicity": "Japanese Brazilians"
+  },
+  {
+    "name": "Jornal Nippak",
+    "root_url": "jornalnippak.com.br",
+    "scope": "national",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Brazilian Nikkei news outlet featuring signed opinion columns and diaspora coverage that at times includes the Japanese Bolivian community.",
+    "ethnicity": "Japanese Bolivians"
+  },
+  {
+    "name": "Journal des Français à l'Étranger",
+    "root_url": "francaisaletranger.fr",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "News magazine for French abroad with bylined articles and commentary on expatriate issues, regularly addressing Latin America and Chile.",
+    "ethnicity": "French Chileans"
+  },
+  {
+    "name": "JTA en Español (Jewish Telegraphic Agency)",
+    "root_url": "es.jta.org",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Global Jewish diaspora"
+    ],
+    "political_slant": "independent",
+    "description": "Spanish-language service of JTA offering news and bylined opinion pieces that include coverage of Latin American Jewish communities such as Peru.",
+    "ethnicity": "Jewish Peruvian"
+  },
+  {
+    "name": "Kichwa Hatari",
+    "root_url": "kichwahatari.org",
+    "scope": "regional",
+    "country": [
+      "Ecuador"
+    ],
+    "region": [
+      "diaspora/transnational"
+    ],
+    "political_slant": "independent",
+    "description": "Kichwa-focused digital radio and news platform publishing signed commentary on culture, language, and politics affecting Kichwa in Ecuador and the diaspora.",
+    "ethnicity": "Kichwa (Quechua)"
+  },
+  {
+    "name": "L'Italiano",
+    "root_url": "litaliano.com.ar",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Argentine Italian community news outlet publishing bylined opinion and commentary on Italian-Argentine affairs.",
+    "ethnicity": "Italian Argentines"
+  },
+  {
+    "name": "L'Orient Today",
+    "root_url": "today.lorientlejour.com",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "English-language sister outlet of L'Orient-Le Jour featuring analysis and opinion on Lebanese current affairs.",
+    "ethnicity": "Lebanese"
+  },
+  {
+    "name": "L'Orient-Le Jour",
+    "root_url": "lorientlejour.com",
+    "scope": "national",
+    "country": [
+      "Bolivia",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Lebanese daily publishing editorials and signed op-eds that inform diaspora discourse on politics and society.",
+    "ethnicity": [
+      "Lebanese",
+      "Lebanese Bolivians"
+    ]
+  },
+  {
+    "name": "La Capital (Mar del Plata)",
+    "root_url": "lacapitalmdp.com",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Buenos Aires Province (Mar del Plata)"
+    ],
+    "political_slant": "",
+    "description": "Mar del Plata daily that publishes editorials and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Capital (Rosario)",
+    "root_url": "lacapital.com.ar",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Santa Fe"
+    ],
+    "political_slant": "",
+    "description": "Rosario-based daily covering Santa Fe with regular editorials and op-eds.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Crónica del Quindío",
+    "root_url": "cronicadelquindio.com",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Quindío"
+    ],
+    "political_slant": "",
+    "description": "Armenia daily for Quindío with editorials and opinion columns by named authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Demajagua",
+    "root_url": "lademajagua.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Granma"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Granma with news, editorials, and bylined opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Estrella de Valparaíso",
+    "root_url": "estrellavalpo.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región de Valparaíso"
+    ],
+    "political_slant": "",
+    "description": "Valparaíso regional daily including local news and identifiable opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Gaceta",
+    "root_url": "lagaceta.com.ar",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Tucumán"
+    ],
+    "political_slant": "",
+    "description": "Tucumán daily known for its Opinión section and local commentary.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Hora",
+    "root_url": "lahora.gt",
+    "scope": "national",
+    "country": [
+      "Guatemala"
+    ],
+    "region": [],
+    "political_slant": "center-left",
+    "description": "Independent daily featuring a robust signed-opinion section on governance, rights, and civic issues for Spanish-speaking readers.",
+    "ethnicity": "Ladino (Mestizo)"
+  },
+  {
+    "name": "La Hora Esmeraldas",
+    "root_url": "lahora.com.ec",
+    "scope": "regional",
+    "country": [
+      "Ecuador"
+    ],
+    "region": [
+      "Esmeraldas (Esmeraldas)"
+    ],
+    "political_slant": "independent",
+    "description": "Provincial edition of La Hora covering Esmeraldas with editorials and signed columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Hora Santo Domingo",
+    "root_url": "lahora.com.ec",
+    "scope": "regional",
+    "country": [
+      "Ecuador"
+    ],
+    "region": [
+      "Santo Domingo de los Tsáchilas (Santo Domingo)"
+    ],
+    "political_slant": "independent",
+    "description": "Provincial edition of La Hora for Santo Domingo with editorials and bylined opinion.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Hora – Voz del Migrante",
+    "root_url": "lahora.gt",
+    "scope": "national",
+    "country": [
+      "Guatemala"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "La Hora’s dedicated platform with reported pieces and signed opinion columns centered on Guatemalan migrants and Guatemalan Americans in the U.S.",
+    "ethnicity": [
+      "Guatemalan Americans",
+      "Guatemalans in Spain"
+    ]
+  },
+  {
+    "name": "La Industria",
+    "root_url": "laindustria.pe",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "La Libertad"
+    ],
+    "political_slant": "",
+    "description": "Trujillo-based regional newspaper for La Libertad with editorials and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Jornada Aguascalientes",
+    "root_url": "lja.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Aguascalientes"
+    ],
+    "political_slant": "left",
+    "description": "Aguascalientes daily aligned with La Jornada, publishing editorials and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Jornada Maya",
+    "root_url": "lajornadamaya.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Yucatán Peninsula"
+    ],
+    "political_slant": "left",
+    "description": "Regional edition centered on the Yucatán Peninsula and Maya communities, featuring signed opinion columns and commentary on culture, politics, and rights.",
+    "ethnicity": "Maya"
+  },
+  {
+    "name": "La Lupa",
+    "root_url": "lalupa.press",
+    "scope": "national",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "progressive",
+    "description": "Nicaraguan feminist media publishing commentary by named writers on women’s migration and the Nicaraguan diaspora in Costa Rica.",
+    "ethnicity": "Nicaraguan diaspora in Costa Rica"
+  },
+  {
+    "name": "La Nación",
+    "root_url": "lanacionweb.com",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Táchira"
+    ],
+    "political_slant": "independent",
+    "description": "San Cristóbal daily for Táchira that runs signed opinion columns and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Nueva",
+    "root_url": "lanueva.com",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Buenos Aires Province (Bahía Blanca)"
+    ],
+    "political_slant": "",
+    "description": "Bahía Blanca daily featuring signed opinion pieces and analysis.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Opinión",
+    "root_url": "laopinion.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "California (Los Angeles)"
+    ],
+    "political_slant": "liberal",
+    "description": "Spanish-language news outlet serving Greater Los Angeles’s Mexican-American community with editorials and named columnists.",
+    "ethnicity": "Mexican Americans"
+  },
+  {
+    "name": "La Opinión",
+    "root_url": "laopinion.com.co",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Norte de Santander"
+    ],
+    "political_slant": "",
+    "description": "Cúcuta daily for Norte de Santander publishing editorials and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Opinión Austral",
+    "root_url": "laopinionaustral.com.ar",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Santa Cruz"
+    ],
+    "political_slant": "",
+    "description": "Santa Cruz outlet with opinion columns, editorials, and local analysis.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Palabra del Beni",
+    "root_url": "lapalabradelbeni.com.bo",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Beni"
+    ],
+    "political_slant": "independent",
+    "description": "Beni department daily (Trinidad) featuring editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Palabra Israelita",
+    "root_url": "lapalabraisraelita.cl",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Weekly Jewish community newspaper in Chile publishing news, editorials, and bylined opinion columns.",
+    "ethnicity": "Jewish Chileans"
+  },
+  {
+    "name": "La Patilla",
+    "root_url": "lapatilla.com",
+    "scope": "regional",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "anti-government",
+    "description": "Venezuelan digital news outlet with a prominent Opinión section of signed columns widely read by the diaspora, including in Costa Rica.",
+    "ethnicity": "Venezuelan diaspora in Costa Rica"
+  },
+  {
+    "name": "La Patria",
+    "root_url": "lapatria.bo",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Oruro"
+    ],
+    "political_slant": "independent",
+    "description": "Historic Oruro daily carrying editorials and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Patria",
+    "root_url": "lapatria.com",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Caldas"
+    ],
+    "political_slant": "independent",
+    "description": "Manizales daily for Caldas featuring editorials and columnists with bylines.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Plata Hochi",
+    "root_url": "laplatahochi.com.ar",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Long-running Japanese-Argentine community newspaper publishing news and signed opinion columns focused on the Nikkei in Argentina.",
+    "ethnicity": "Japanese Argentines"
+  },
+  {
+    "name": "La Prensa",
+    "root_url": "laprensa.com.ni",
+    "scope": "national",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Nicaragua’s leading daily with an opinion section that regularly addresses Nicaraguan refugees and diaspora issues in Costa Rica.",
+    "ethnicity": "Nicaraguan diaspora in Costa Rica"
+  },
+  {
+    "name": "La Prensa (Riobamba)",
+    "root_url": "laprensa.com.ec",
+    "scope": "regional",
+    "country": [
+      "Ecuador"
+    ],
+    "region": [
+      "Chimborazo (Riobamba)"
+    ],
+    "political_slant": "",
+    "description": "Riobamba daily featuring editorials, columnists, and reader commentaries.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Prensa Austral",
+    "root_url": "laprensaaustral.cl",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "Región de Magallanes y de la Antártica Chilena"
+    ],
+    "political_slant": "",
+    "description": "Punta Arenas daily covering Magallanes with local news and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Prensa de Lara",
+    "root_url": "laprensalara.com.ve",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Lara"
+    ],
+    "political_slant": "independent",
+    "description": "Regional outlet in Lara with an Opinión section carrying columns by named writers.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Prensa Gráfica — Departamento 15",
+    "root_url": "laprensagrafica.com",
+    "scope": "national",
+    "country": [
+      "El Salvador"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Section of La Prensa Gráfica devoted to Salvadorans abroad that features bylined stories and commentary relevant to diaspora communities in Spain.",
+    "ethnicity": "Salvadorans in Spain"
+  },
+  {
+    "name": "La Prensa Texas",
+    "root_url": "laprensatexas.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Texas (San Antonio)"
+    ],
+    "political_slant": "independent",
+    "description": "Community news outlet in San Antonio focused on Mexican-American issues with signed opinion columns and editorials.",
+    "ethnicity": "Mexican Americans"
+  },
+  {
+    "name": "La Raza",
+    "root_url": "laraza.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Illinois (Chicago)"
+    ],
+    "political_slant": "liberal",
+    "description": "Chicago Spanish-language news source focused on Mexican-American and broader Latino communities with signed opinion pieces.",
+    "ethnicity": "Mexican Americans"
+  },
+  {
+    "name": "La Región",
+    "root_url": "laregion.cr",
+    "scope": "regional",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [
+      "Huetar Norte"
+    ],
+    "political_slant": "independent",
+    "description": "Digital newspaper for the Huetar Norte (San Carlos and surroundings) featuring local reporting and op-eds by named authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Región Internacional",
+    "root_url": "laregioninternacional.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Argentina",
+      "Paraguay",
+      "Venezuela"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Spanish diaspora newspaper with coverage of the Spanish community in Chile and opinion pieces by identifiable authors.",
+    "ethnicity": [
+      "Spanish Argentines",
+      "Spanish Chileans",
+      "Spanish Venezuelans",
+      "Spanish-Paraguayan"
+    ]
+  },
+  {
+    "name": "La Región Internacional",
+    "root_url": "laregioninternational.com",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Spanish emigrant newspaper with regular coverage of Spanish communities worldwide, including Uruguay, and an opinions section with named contributors.",
+    "ethnicity": "Spanish"
+  },
+  {
+    "name": "La Verdad",
+    "root_url": "laverdad.com",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Zulia"
+    ],
+    "political_slant": "anti-government",
+    "description": "Maracaibo newspaper covering Zulia that publishes signed opinion columns and commentaries.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Voce d'Italia",
+    "root_url": "lavoceditalia.com",
+    "scope": "national",
+    "country": [
+      "Argentina",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Venezuelan Italian community newspaper featuring bylined editorials and commentary on the Italian diaspora including Argentina.",
+    "ethnicity": [
+      "Italian",
+      "Italian Argentines"
+    ]
+  },
+  {
+    "name": "La Voce d'Italia",
+    "root_url": "voce.com.ve",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Bolivia",
+      "Mexico",
+      "Paraguay",
+      "Venezuela"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "independent",
+    "description": "Venezuelan-based Italian diaspora newspaper featuring identifiable-author editorials and commentary on Italian communities in Latin America, including Chile.",
+    "ethnicity": [
+      "Italian Bolivians",
+      "Italian Chileans",
+      "Italian Colombians",
+      "Italian Costa Ricans",
+      "Italian Mexicans",
+      "Italian Venezuelans",
+      "Italian-Paraguayan"
+    ]
+  },
+  {
+    "name": "La Voce di New York",
+    "root_url": "lavocedinewyork.com",
+    "scope": "national",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Bilingual Italian/English news magazine with signed commentary on Italians abroad, periodically addressing the Italian Venezuelan community.",
+    "ethnicity": "Italian Venezuelans"
+  },
+  {
+    "name": "La Voce d’Italia",
+    "root_url": "voce.com.ve",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "",
+    "description": "Venezuelan Italian-language newspaper for the Italian diaspora in Latin America, publishing commentary and op-eds relevant to Peru.",
+    "ethnicity": "Italian Peruvian"
+  },
+  {
+    "name": "La Voz de Guanacaste",
+    "root_url": "vozdeguanacaste.com",
+    "scope": "regional",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [
+      "Guanacaste"
+    ],
+    "political_slant": "independent",
+    "description": "Bilingual nonprofit newspaper for Guanacaste with investigative reporting and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Voz de Occidente",
+    "root_url": "lavozdeoccidente.com.hn",
+    "scope": "regional",
+    "country": [
+      "Honduras"
+    ],
+    "region": [
+      "Santa Rosa de Copán / Occidente (Western)"
+    ],
+    "political_slant": "",
+    "description": "Historic weekly from Santa Rosa de Copán with regional coverage and signed columns and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Voz de Xela",
+    "root_url": "lavozdexela.com",
+    "scope": "regional",
+    "country": [
+      "Guatemala"
+    ],
+    "region": [
+      "Quetzaltenango"
+    ],
+    "political_slant": "independent",
+    "description": "Digital regional news outlet for Quetzaltenango featuring signed opinion pieces and commentary.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Voz del Interior",
+    "root_url": "lavoz.com.ar",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Córdoba"
+    ],
+    "political_slant": "",
+    "description": "Córdoba’s main daily with an active Opinión section and signed columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "La Voz del Árabe",
+    "root_url": "lavozdelaarabe.com",
+    "scope": "regional",
+    "country": [
+      "Dominican Republic"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Mexico-based Spanish-language news site on the Arab world and Hispanic Arab communities with bylined editorials and opinion.",
+    "ethnicity": "Arab-Dominican"
+  },
+  {
+    "name": "La Voz del Árabe",
+    "root_url": "lavozdelarabe.mx",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Mexican news magazine offering bylined editorials and commentary on Arab communities and Middle East issues for Spanish-speaking audiences in Latin America.",
+    "ethnicity": "Arab Colombians (Lebanese, Syrian, Palestinian)"
+  },
+  {
+    "name": "Le National",
+    "root_url": "lenational.org",
+    "scope": "national",
+    "country": [
+      "Dominican Republic",
+      "Haiti"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Haitian daily with a Tribune section of signed opinion essays that often address DR–Haiti relations and Haitian migrants in the DR.",
+    "ethnicity": [
+      "Afro-Haitian",
+      "Haitian-Dominican"
+    ]
+  },
+  {
+    "name": "Le Nouvelliste",
+    "root_url": "lenouvelliste.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Brazil",
+      "Dominican Republic",
+      "Haiti"
+    ],
+    "region": [],
+    "political_slant": "center",
+    "description": "Haiti’s leading newspaper with editorials and bylined commentary on national and diaspora issues such as Haitians in Chile.",
+    "ethnicity": [
+      "Afro-Haitian",
+      "Haitian Brazilians",
+      "Haitian immigrants in Chile",
+      "Haitian-Dominican",
+      "Haitians in French Guiana"
+    ]
+  },
+  {
+    "name": "Le Petit Journal",
+    "root_url": "lepetitjournal.com",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "French expat news network with Latin American editions that publish tribunes and commentary by named contributors read by the community in Uruguay.",
+    "ethnicity": "French"
+  },
+  {
+    "name": "Le Petit Journal - Santiago du Chili",
+    "root_url": "lepetitjournal.com",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Francophone news site for the French community in Chile featuring bylined reports, community coverage, and occasional opinion columns.",
+    "ethnicity": "French Chileans"
+  },
+  {
+    "name": "Le Petit Journal Buenos Aires",
+    "root_url": "lepetitjournal.com",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Buenos Aires"
+    ],
+    "political_slant": "independent",
+    "description": "French-language expatriate news outlet for the French community in Buenos Aires featuring signed articles, interviews, and community-focused commentary.",
+    "ethnicity": "French Argentines"
+  },
+  {
+    "name": "Lesfrancais.press",
+    "root_url": "lesfrancais.press",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "France-based news outlet for French expatriates worldwide, publishing signed analysis and opinion pieces including coverage relevant to French in Chile.",
+    "ethnicity": [
+      "French",
+      "French Chileans"
+    ]
+  },
+  {
+    "name": "Los Andes",
+    "root_url": "losandes.com.ar",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [
+      "Mendoza"
+    ],
+    "political_slant": "",
+    "description": "Historic Mendoza newspaper featuring opinion columns and analysis.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Los Andes",
+    "root_url": "losandes.com.pe",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Puno"
+    ],
+    "political_slant": "",
+    "description": "Puno regional daily with opinion pages and signed columns on local and national issues.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Los Tiempos",
+    "root_url": "lostiempos.com",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Cochabamba"
+    ],
+    "political_slant": "independent",
+    "description": "Cochabamba daily newspaper with an active opinion section featuring named columnists.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "LusoJornal",
+    "root_url": "lusojornal.com",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "News site dedicated to Portuguese communities overseas with bylined opinion pieces and analysis.",
+    "ethnicity": "Portuguese"
+  },
+  {
+    "name": "L’Orient Today",
+    "root_url": "today.lorientlejour.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "center",
+    "description": "English edition of L’Orient-Le Jour carrying analysis and op-eds on Lebanese affairs and diaspora issues followed by Lebanese Costa Ricans.",
+    "ethnicity": "Lebanese Costa Ricans"
+  },
+  {
+    "name": "L’Orient-Le Jour",
+    "root_url": "lorientlejour.com",
+    "scope": "regional",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [],
+    "political_slant": "liberal",
+    "description": "Beirut-based daily focused on Lebanese affairs and diaspora, featuring signed editorials and op-eds.",
+    "ethnicity": "Lebanese-Paraguayan"
+  },
+  {
+    "name": "MapuChe Press",
+    "root_url": "mapuchepress.blogspot.com",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Mapuche-focused blog aggregating and producing news and signed opinion about Mapuche politics, rights, and conflicts in Chile.",
+    "ethnicity": "Mapuche"
+  },
+  {
+    "name": "Mapuexpress",
+    "root_url": "mapuexpress.org",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Mapuche-run news and opinion portal with signed columns on Mapuche rights, politics, and culture in Wallmapu and Chile.",
+    "ethnicity": "Mapuche"
+  },
+  {
+    "name": "MayaPolitikon",
+    "root_url": "mayapolitikon.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Yucatán"
+    ],
+    "political_slant": "independent",
+    "description": "Digital outlet focused on Yucatán’s Maya peoples and land/community issues, publishing reported features and signed opinion pieces.",
+    "ethnicity": "Maya"
+  },
+  {
+    "name": "Mennonews.de",
+    "root_url": "mennonews.de",
+    "scope": "national",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "German-language Mennonite news and commentary site with bylined pieces on Mennonite life and issues in Germany and abroad, including Paraguay.",
+    "ethnicity": "German-Paraguayan (including Mennonites)"
+  },
+  {
+    "name": "Middle East Monitor (MEMO)",
+    "root_url": "middleeastmonitor.com",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "pro-Palestinian",
+    "description": "UK-based outlet publishing news, analysis, and op-eds focused on Palestine and the Middle East with identifiable authors.",
+    "ethnicity": "Palestinian Bolivians"
+  },
+  {
+    "name": "Mindel Insite",
+    "root_url": "mindelinsite.com",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "São Vicente–based Cape Verdean news site with a dedicated Opinião section and regular diaspora commentary relevant to Argentina.",
+    "ethnicity": "Cape Verdean Argentines"
+  },
+  {
+    "name": "Moment Magazine",
+    "root_url": "momentmag.com",
+    "scope": "national",
+    "country": [
+      "Cuba"
+    ],
+    "region": [],
+    "political_slant": "liberal",
+    "description": "Independent Jewish magazine featuring signed essays and commentary on global Jewish life, including Cuban Jewish topics",
+    "ethnicity": "Jewish Cubans"
+  },
+  {
+    "name": "Mondoweiss",
+    "root_url": "mondoweiss.net",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "U.S.-based news and opinion site covering Israel/Palestine and related diaspora topics from a progressive perspective.",
+    "ethnicity": "Palestinian Bolivians"
+  },
+  {
+    "name": "Mongabay Latam",
+    "root_url": "es.mongabay.com",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Amazonas"
+    ],
+    "political_slant": "independent",
+    "description": "Latin America edition of Mongabay that publishes bylined opinion/commentary on Amazon conservation and Indigenous rights, including Yanomami coverage in the Venezuela–Brazil region.",
+    "ethnicity": "Yanomami"
+  },
+  {
+    "name": "Mosaico CSI",
+    "root_url": "mosaicocsi.com",
+    "scope": "regional",
+    "country": [
+      "Nicaragua"
+    ],
+    "region": [
+      "Matagalpa"
+    ],
+    "political_slant": "independent",
+    "description": "Matagalpa-focused digital news site run by local journalists, featuring investigative reports and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Mundo Lusíada",
+    "root_url": "mundolusiada.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Brazilian news site focused on the Portuguese community and Lusophone ties, featuring bylined opinion columns and commentary.",
+    "ethnicity": "Portuguese Brazilians"
+  },
+  {
+    "name": "Mundo Negro",
+    "root_url": "mundonegro.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Black culture and news site that publishes bylined opinion columns on society, representation, and policy.",
+    "ethnicity": "Afro-Brazilians"
+  },
+  {
+    "name": "Mundo Português",
+    "root_url": "mundoportugues.pt",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Diaspora-focused Portuguese news outlet with signed opinion columns on communities worldwide, including Latin America.",
+    "ethnicity": "Portuguese"
+  },
+  {
+    "name": "Mural",
+    "root_url": "mural.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Jalisco (Guadalajara)"
+    ],
+    "political_slant": "center-right",
+    "description": "Guadalajara daily from Grupo Reforma publishing columns, editorials, and local commentary by identified authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Mídia Índia",
+    "root_url": "midiaindia.org",
+    "scope": "national",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Indigenous-run digital media with signed commentary and reporting on Guaraní communities (including Guaraní-Kaiowá) relevant to Paraguay.",
+    "ethnicity": "Guaraní"
+  },
+  {
+    "name": "Naiz",
+    "root_url": "naiz.eus",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "left, pro-independence",
+    "description": "Basque news portal featuring editorials and opinion from the abertzale left, periodically addressing the diaspora including Chile.",
+    "ethnicity": [
+      "Basque",
+      "Basque Chileans"
+    ]
+  },
+  {
+    "name": "Negra Cubana Tenía Que Ser",
+    "root_url": "negracubana.noblogs.org",
+    "scope": "national",
+    "country": [
+      "Cuba"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Blog by Black Cuban feminist Sandra Álvarez with signed commentary on race, gender, and Afro-Cuban life and rights.",
+    "ethnicity": "Afro-Cubans"
+  },
+  {
+    "name": "Negrê",
+    "root_url": "negre.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Digital magazine amplifying Black perspectives across Brazil with bylined opinion essays and commentary.",
+    "ethnicity": "Afro-Brazilians"
+  },
+  {
+    "name": "Neos Kosmos",
+    "root_url": "neoskosmos.com",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "center-left",
+    "description": "Greek-Australian newspaper with named opinion columns on diaspora issues, including coverage of Greek communities across Latin America and Chile.",
+    "ethnicity": "Greek Chileans"
+  },
+  {
+    "name": "Nidaa al-Watan",
+    "root_url": "nidaalwatan.com",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Lebanese daily with editorials and signed opinion pieces often critical of Hezbollah-aligned politics.",
+    "ethnicity": "Lebanese"
+  },
+  {
+    "name": "NikkeyWeb",
+    "root_url": "nikkeyweb.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Brazil-focused Nikkei news portal featuring community reporting, columnists, and bylined opinion pieces for Japanese Brazilians.",
+    "ethnicity": "Japanese Brazilians"
+  },
+  {
+    "name": "Noroeste",
+    "root_url": "noroeste.com.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Sinaloa (Culiacán/Mazatlán)"
+    ],
+    "political_slant": "independent",
+    "description": "Sinaloa daily with investigative reporting and a signed Opinión section.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Noticia Garífuna",
+    "root_url": "noticiagarifuna.com",
+    "scope": "regional",
+    "country": [
+      "Nicaragua"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Spanish-language outlet featuring news and signed commentary focused on Garifuna communities in Honduras, Belize, Guatemala, and Nicaragua.",
+    "ethnicity": "Garifuna"
+  },
+  {
+    "name": "Noticias SER",
+    "root_url": "noticiasser.pe",
+    "scope": "national",
+    "country": [
+      "Peru"
+    ],
+    "region": [],
+    "political_slant": "center-left",
+    "description": "Outlet focused on Peru’s Andean regions with signed columns and analysis that regularly address Quechua communities, culture, and politics.",
+    "ethnicity": "Quechua"
+  },
+  {
+    "name": "Notimatv",
+    "root_url": "notimatv.com",
+    "scope": "regional",
+    "country": [
+      "Nicaragua"
+    ],
+    "region": [
+      "Masaya"
+    ],
+    "political_slant": "independent",
+    "description": "Masaya local TV-news site covering civic issues and publishing signed commentary and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "NOTIMIA",
+    "root_url": "notimia.com",
+    "scope": "national",
+    "country": [
+      "Mexico"
+    ],
+    "region": [],
+    "political_slant": "feminist",
+    "description": "Mexican indigenous and Afro-descendant women’s news agency publishing bylined opinion and reports on Afro-Mexican rights, culture, and policy.",
+    "ethnicity": "Afro-Mexicans"
+  },
+  {
+    "name": "Notícia Preta",
+    "root_url": "noticiapreta.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Black news portal with bylined columns and analysis on racism, culture, and public policy in Brazil.",
+    "ethnicity": [
+      "Afro-Brazilians",
+      "Quilombolas"
+    ]
+  },
+  {
+    "name": "Notícias do Norte",
+    "root_url": "noticiasdonorte.cv",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Cape Verdean regional news outlet publishing signed opinion pieces and diaspora stories, occasionally covering the Argentine community.",
+    "ethnicity": "Cape Verdean Argentines"
+  },
+  {
+    "name": "NOW Lebanon",
+    "root_url": "nowlebanon.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica",
+      "Bolivia",
+      "Paraguay"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Lebanese news and commentary platform publishing signed opinion columns on politics and diaspora topics relevant to Lebanese abroad, including Costa Rica.",
+    "ethnicity": [
+      "Lebanese Bolivians",
+      "Lebanese Costa Ricans",
+      "Lebanese-Paraguayan"
+    ]
+  },
+  {
+    "name": "NTR Guadalajara",
+    "root_url": "ntrguadalajara.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Jalisco (Guadalajara)"
+    ],
+    "political_slant": "independent",
+    "description": "Guadalajara independent daily with signed opinion columns and editorials on Jalisco politics.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Nueva Sion",
+    "root_url": "nuevasion.com.ar",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Argentina",
+      "Costa Rica",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "center-left",
+    "description": "Argentine Jewish magazine with a progressive Zionist perspective publishing bylined opinion and essays read across Latin America.",
+    "ethnicity": [
+      "Jewish",
+      "Jewish Argentines",
+      "Jewish Chileans",
+      "Jewish Costa Ricans"
+    ]
+  },
+  {
+    "name": "Nuevo Mundo Israelita",
+    "root_url": "nmidigital.org",
+    "scope": "national",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Spanish-language Jewish Venezuelan newspaper featuring news and bylined opinion columns on community and national issues.",
+    "ethnicity": "Jewish Venezuelans"
+  },
+  {
+    "name": "O Liberal",
+    "root_url": "oliberal.com",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Pará"
+    ],
+    "political_slant": "",
+    "description": "Belém daily with an opinion section featuring editorials and signed columns on Pará and the Amazon.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "O Popular",
+    "root_url": "opopular.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Goiás"
+    ],
+    "political_slant": "",
+    "description": "Goiânia daily publishing editorials and bylined columns focused on Goiás.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "O Povo",
+    "root_url": "opovo.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Ceará"
+    ],
+    "political_slant": "",
+    "description": "Fortaleza-based newspaper with an Opinião section of signed columns and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "O Tempo",
+    "root_url": "otempo.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Minas Gerais"
+    ],
+    "political_slant": "",
+    "description": "Belo Horizonte daily featuring editorials and named columnists on Minas Gerais and Brazil.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Opinión",
+    "root_url": "opinion.com.bo",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [
+      "Cochabamba"
+    ],
+    "political_slant": "independent",
+    "description": "Cochabamba newspaper publishing editorials and signed columns on local and national issues.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Oriundi",
+    "root_url": "oriundi.net",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Portal on Italian immigration and descendants in Brazil with news and signed commentary for the Italian-Brazilian community.",
+    "ethnicity": "Italian Brazilians"
+  },
+  {
+    "name": "OviedoPress",
+    "root_url": "oviedopress.com",
+    "scope": "regional",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [
+      "Caaguazú"
+    ],
+    "political_slant": "",
+    "description": "Coronel Oviedo digital newspaper with an Opinión section featuring columns and editorials by named writers.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Palestina Libre",
+    "root_url": "palestinalibre.org",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Peru"
+    ],
+    "region": [],
+    "political_slant": "pro-Palestinian",
+    "description": "Chile-based Spanish-language outlet publishing news and signed opinion pieces focused on Palestine and the Palestinian diaspora, including issues relevant to Palestinian Chileans.",
+    "ethnicity": [
+      "Arab Peruvian (Lebanese/Syrian/Palestinian)",
+      "Palestinian Chileans"
+    ]
+  },
+  {
+    "name": "PalestinaLibre.org",
+    "root_url": "palestinalibre.org",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "pro-Palestinian",
+    "description": "Spanish-language site from Latin America offering news and opinion on Palestine and the Palestinian diaspora.",
+    "ethnicity": "Palestinian Bolivians"
+  },
+  {
+    "name": "PANORAMA",
+    "root_url": "panorama.com.ve",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Zulia"
+    ],
+    "political_slant": "independent",
+    "description": "Maracaibo-based regional daily for Zulia with an Opinión section featuring signed columns and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Panorama Cajamarquino",
+    "root_url": "panoramacajamarquino.com",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Cajamarca"
+    ],
+    "political_slant": "",
+    "description": "Cajamarca regional newspaper publishing editorials and signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Periódico 26",
+    "root_url": "periodico26.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Las Tunas"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Las Tunas featuring news, editorials, and bylined opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Periódico Wayuunaiki",
+    "root_url": "wayuunaiki.com",
+    "scope": "regional",
+    "country": [
+      "Colombia",
+      "Venezuela"
+    ],
+    "region": [
+      "La Guajira",
+      "Zulia and La Guajira"
+    ],
+    "political_slant": "independent",
+    "description": "Bilingual Wayuu-focused newspaper covering community news and signed opinion pieces from La Guajira and the binational Wayuu territory.",
+    "ethnicity": "Wayuu"
+  },
+  {
+    "name": "Peru Shimpo",
+    "root_url": "perushimpo.com.pe",
+    "scope": "national",
+    "country": [
+      "Colombia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Peruvian Nikkei newspaper with bylined opinion columns that at times address Latin American Nikkei issues, including topics relevant to Colombia.",
+    "ethnicity": "Japanese Colombians"
+  },
+  {
+    "name": "Perú Shimpo",
+    "root_url": "perushimpo.com",
+    "scope": "national",
+    "country": [
+      "Bolivia",
+      "Peru"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Peruvian Nikkei newspaper with identifiable columnists and editorials that address regional Nikkei issues, including matters involving Japanese Bolivians.",
+    "ethnicity": [
+      "Japanese Bolivians",
+      "Japanese Peruvian (Nikkei)"
+    ]
+  },
+  {
+    "name": "Plautdietsch.de",
+    "root_url": "plautdietsch.de",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Plautdietsch-language news and culture site publishing bylined commentary relevant to Low German Mennonite communities in Bolivia and the diaspora.",
+    "ethnicity": "German-speaking Mennonites"
+  },
+  {
+    "name": "Plaza Pública",
+    "root_url": "plazapublica.com.gt",
+    "scope": "national",
+    "country": [
+      "Guatemala"
+    ],
+    "region": [],
+    "political_slant": "progressive",
+    "description": "In-depth digital magazine publishing analysis and opinion essays by named columnists on national politics and society.",
+    "ethnicity": "Ladino (Mestizo)"
+  },
+  {
+    "name": "Pletz - Portal Judaico",
+    "root_url": "pletz.com",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Brazilian Jewish news portal covering community topics, Israel, and opinion columns by identified contributors.",
+    "ethnicity": "Jewish Brazilians"
+  },
+  {
+    "name": "Pomerode Online",
+    "root_url": "pomerodeonline.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Community news site in Pomerode (SC) that publishes opinion columns and commentary by named contributors on German-Brazilian culture and local affairs.",
+    "ethnicity": "German Brazilians"
+  },
+  {
+    "name": "Portal BrasilAlemanha",
+    "root_url": "brasilalemanha.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "News and culture portal for the German-Brazilian community that features signed columns, commentary, and opinion pieces on diaspora issues.",
+    "ethnicity": "German Brazilians"
+  },
+  {
+    "name": "Portuguese American Journal",
+    "root_url": "portuguese-american-journal.com",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Online magazine covering the Portuguese diaspora with identifiable opinion essays and columns of transnational relevance.",
+    "ethnicity": "Portuguese"
+  },
+  {
+    "name": "Prensa Armenia",
+    "root_url": "prensaarmenia.com.ar",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Argentina-based Spanish-language outlet covering Armenian issues and the local diaspora with bylined analysis and commentary.",
+    "ethnicity": "Armenian Argentines"
+  },
+  {
+    "name": "Prensa Comunitaria",
+    "root_url": "comunitaria.press",
+    "scope": "regional",
+    "country": [
+      "Panama"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Mesoamerican community journalism outlet centered on Indigenous peoples that publishes bylined opinion and analysis, occasionally covering Panama.",
+    "ethnicity": "Indian Panamanian"
+  },
+  {
+    "name": "Prensa Libre",
+    "root_url": "prensalibre.com",
+    "scope": "national",
+    "country": [
+      "Guatemala"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Major Spanish-language daily with signed columns and op-eds on national affairs, widely read by urban ladino audiences.",
+    "ethnicity": "Ladino (Mestizo)"
+  },
+  {
+    "name": "Prensa Libre – Migrantes",
+    "root_url": "prensalibre.com",
+    "scope": "national",
+    "country": [
+      "Guatemala"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Prensa Libre’s vertical covering Guatemalan communities in the U.S., including bylined analysis and commentary on diaspora issues and policy.",
+    "ethnicity": "Guatemalan Americans"
+  },
+  {
+    "name": "Prensa Regional",
+    "root_url": "prensaregional.pe",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Moquegua"
+    ],
+    "political_slant": "",
+    "description": "Southern Peru regional news site covering Moquegua and nearby provinces with signed opinion columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Prodavinci",
+    "root_url": "prodavinci.com",
+    "scope": "regional",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Venezuelan ideas and analysis magazine publishing authored essays and op-eds pertinent to the diaspora’s civic discourse in Costa Rica.",
+    "ethnicity": "Venezuelan diaspora in Costa Rica"
+  },
+  {
+    "name": "Puerto Plata Digital",
+    "root_url": "puertoplatadigital.com",
+    "scope": "regional",
+    "country": [
+      "Dominican Republic"
+    ],
+    "region": [
+      "North Coast (Puerto Plata)"
+    ],
+    "political_slant": "independent",
+    "description": "Puerto Plata news site that features local reporting and opinion columns with named authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Punto d'Incontro",
+    "root_url": "puntodincontro.mx",
+    "scope": "national",
+    "country": [
+      "Mexico"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Italo-Mexican online newspaper based in Mexico covering Italy–Mexico community issues with news and signed commentary.",
+    "ethnicity": "Italian Mexicans"
+  },
+  {
+    "name": "Páginas Árabes",
+    "root_url": "paginasarabes.com",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Spanish-language magazine-style site on Arab culture and diaspora in Latin America, including Argentina, publishing essays and opinion pieces with bylines.",
+    "ethnicity": "Arab Argentines"
+  },
+  {
+    "name": "Q Costa Rica",
+    "root_url": "qcostarica.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "English-language news site aimed at foreign residents and visitors, publishing analysis and opinion pieces with bylines.",
+    "ethnicity": "United States expatriates in Costa Rica"
+  },
+  {
+    "name": "Radio Darío",
+    "root_url": "radiodario891.com",
+    "scope": "regional",
+    "country": [
+      "Nicaragua"
+    ],
+    "region": [
+      "León"
+    ],
+    "political_slant": "anti-government",
+    "description": "León-based news radio outlet publishing local reporting and signed opinion pieces and editorials.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Radio Jai",
+    "root_url": "radiojai.com",
+    "scope": "national",
+    "country": [
+      "Colombia",
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Jewish news and analysis platform from Argentina publishing signed opinion columns relevant to Latin American communities including Colombia.",
+    "ethnicity": [
+      "Jewish Argentines",
+      "Jewish Colombians"
+    ]
+  },
+  {
+    "name": "Radio La Costeñísima",
+    "root_url": "lacostenisima.com",
+    "scope": "regional",
+    "country": [
+      "Nicaragua"
+    ],
+    "region": [
+      "South Caribbean Coast Autonomous Region"
+    ],
+    "political_slant": "anti-government",
+    "description": "Independent Bluefields-based radio and news site for the Caribbean Coast, with columns and on-air editorials by named journalists.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Radio Progreso",
+    "root_url": "radioprogresohn.net",
+    "scope": "regional",
+    "country": [
+      "Honduras"
+    ],
+    "region": [
+      "El Progreso / Yoro (Northern)"
+    ],
+    "political_slant": "left",
+    "description": "Jesuit-run regional news outlet from El Progreso with regular analysis and opinion articles by named contributors focused on northern communities.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Radio San Gabriel",
+    "root_url": "radiosangabriel.org.bo",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Aymara community radio in El Alto that posts news and bylined opinion and cultural commentary in Aymara and Spanish.",
+    "ethnicity": "Aymara"
+  },
+  {
+    "name": "Radio Vos",
+    "root_url": "radiovos.org.ni",
+    "scope": "regional",
+    "country": [
+      "Nicaragua"
+    ],
+    "region": [
+      "Matagalpa"
+    ],
+    "political_slant": "independent",
+    "description": "Community radio and news site in Matagalpa with analysis and opinion columns authored by local voices.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Raíchali",
+    "root_url": "raichali.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Chihuahua"
+    ],
+    "political_slant": "independent",
+    "description": "Independent outlet from Chihuahua focused on the Sierra Tarahumara with regular reporting and signed opinion pieces on Rarámuri issues.",
+    "ethnicity": "Rarámuri (Tarahumara)"
+  },
+  {
+    "name": "República",
+    "root_url": "republica.gt",
+    "scope": "national",
+    "country": [
+      "Guatemala"
+    ],
+    "region": [],
+    "political_slant": "conservative",
+    "description": "Conservative digital outlet with identifiable authors writing op-eds and columns on politics, business, and culture.",
+    "ethnicity": "Ladino (Mestizo)"
+  },
+  {
+    "name": "Revista Afirmativa",
+    "root_url": "revistaafirmativa.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Digital Black media magazine offering reports and bylined opinion pieces on racism, culture, and public debate.",
+    "ethnicity": [
+      "Afro-Brazilians",
+      "Quilombolas"
+    ]
+  },
+  {
+    "name": "Revista DangDai",
+    "root_url": "dangdai.com.ar",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Argentine magazine on China–Argentina relations and Chinese community issues, publishing bylined opinion columns and analysis.",
+    "ethnicity": "Chinese Argentines"
+  },
+  {
+    "name": "Revista Descendentes",
+    "root_url": "revistadescendentes.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Magazine covering Portuguese-descendant culture and community in Brazil with bylined columns and opinion features.",
+    "ethnicity": "Portuguese Brazilians"
+  },
+  {
+    "name": "Revista Insieme",
+    "root_url": "revistainsieme.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "Paraná (South)"
+    ],
+    "political_slant": "independent",
+    "description": "Paraná-based outlet covering Italian-Brazilian affairs with news, analysis, and signed opinion pieces.",
+    "ethnicity": "Italian Brazilians"
+  },
+  {
+    "name": "Revista Judaica",
+    "root_url": "revistajudaica.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Brazilian Jewish magazine covering community affairs, Israel, culture, and publishing signed opinion columns.",
+    "ethnicity": "Jewish Brazilians"
+  },
+  {
+    "name": "Revista Mundo Árabe",
+    "root_url": "mundoarabe.cl",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Chilean news magazine covering Arab diaspora issues, including Syrian Chileans, with signed opinion columns and commentary.",
+    "ethnicity": "Syrian Chileans"
+  },
+  {
+    "name": "Revista Mundo Árabe (Chile)",
+    "root_url": "mundoarabe.cl",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Chilean magazine serving Lebanese, Syrian, and Palestinian communities with commentary and op-eds by named contributors across Latin America.",
+    "ethnicity": "Arab Cubans (Lebanese, Syrian, Palestinian)"
+  },
+  {
+    "name": "Revista Palenque (CEDET)",
+    "root_url": "cedet.org.pe",
+    "scope": "national",
+    "country": [
+      "Peru"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Magazine dedicated to Afro-Peruvian affairs publishing essays, analysis, and opinion by identifiable authors.",
+    "ethnicity": "Afro-Peruvian"
+  },
+  {
+    "name": "Revista Pukara",
+    "root_url": "pukara.lamula.pe",
+    "scope": "regional",
+    "country": [
+      "Peru"
+    ],
+    "region": [
+      "Puno"
+    ],
+    "political_slant": "indigenist",
+    "description": "A Puno-based Aymara-focused magazine on Andean politics and culture that publishes opinion columns and editorials by named authors.",
+    "ethnicity": "Aymara"
+  },
+  {
+    "name": "Revista Raça",
+    "root_url": "revistaraca.com.br",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Long-running magazine serving Brazil’s Black community with culture coverage and bylined opinion columns.",
+    "ethnicity": "Afro-Brazilians"
+  },
+  {
+    "name": "Revista Xapuri",
+    "root_url": "xapuri.info",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Socio-environmental magazine publishing signed opinion columns supportive of Indigenous causes with frequent coverage of Yanomami struggles.",
+    "ethnicity": "Yanomami"
+  },
+  {
+    "name": "Revista Xapuri Socioambiental",
+    "root_url": "xapuri.info",
+    "scope": "national",
+    "country": [
+      "Brazil"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Socio-environmental magazine with bylined opinion articles spotlighting traditional peoples, including quilombolas.",
+    "ethnicity": "Quilombolas"
+  },
+  {
+    "name": "Revista Étnica",
+    "root_url": "revistaetnica.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [],
+    "political_slant": "feminist",
+    "description": "Puerto Rico-based magazine amplifying Afro-descendant women’s voices with bylined commentary and reportage across Latin America, including Afro‑Mexican topics.",
+    "ethnicity": "Afro-Mexicans"
+  },
+  {
+    "name": "Rezo Nòdwès",
+    "root_url": "rezonodwes.com",
+    "scope": "regional",
+    "country": [
+      "Haiti"
+    ],
+    "region": [
+      "Nord-Ouest"
+    ],
+    "political_slant": "",
+    "description": "News website originating from the Nord-Ouest that features politics, local reporting, and bylined commentary.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Roma Rights (ERRC)",
+    "root_url": "errc.org",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "transnational"
+    ],
+    "political_slant": "liberal",
+    "description": "Human-rights magazine focused on Roma issues that publishes analysis and opinion essays with identifiable authors.",
+    "ethnicity": "Roma (Gypsy) Chileans"
+  },
+  {
+    "name": "ROMEA.cz (International)",
+    "root_url": "romea.cz",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "transnational"
+    ],
+    "political_slant": "independent",
+    "description": "Czech-based Roma-focused news outlet publishing international news, commentary, and op-eds with named authors.",
+    "ethnicity": "Roma (Gypsy) Chileans"
+  },
+  {
+    "name": "San Carlos Digital",
+    "root_url": "sancarlosdigital.com",
+    "scope": "regional",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [
+      "San Carlos (Alajuela)"
+    ],
+    "political_slant": "independent",
+    "description": "Local news site focused on the canton of San Carlos that publishes analysis and opinion articles by identified columnists.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "San Lorenzo Hoy",
+    "root_url": "sanlorenzohoy.com",
+    "scope": "regional",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [
+      "Central"
+    ],
+    "political_slant": "",
+    "description": "City news outlet for San Lorenzo that features columns and editorials with identifiable authors.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Semanario Hebreo Jai",
+    "root_url": "semanariohebreojai.com",
+    "scope": "national",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "pro-Israel",
+    "description": "Uruguayan Jewish news and opinion site edited by Ana Jerozolimski with signed columns on Israel and the local community.",
+    "ethnicity": "Jewish"
+  },
+  {
+    "name": "Servindi",
+    "root_url": "servindi.org",
+    "scope": "national",
+    "country": [
+      "Colombia",
+      "Bolivia",
+      "Ecuador",
+      "Panama",
+      "Paraguay",
+      "Peru"
+    ],
+    "region": [
+      "Andean-Amazon"
+    ],
+    "political_slant": "left",
+    "description": "Intercultural news service centered on Indigenous peoples of Latin America with a dedicated opinion section by named authors.",
+    "ethnicity": [
+      "Guaraní",
+      "Indian Panamanian",
+      "Indigenous peoples of Colombia",
+      "Kichwa (Quechua)",
+      "Quechua"
+    ]
+  },
+  {
+    "name": "Sierra Maestra",
+    "root_url": "sierramaestra.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Santiago de Cuba"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Santiago de Cuba publishing news, editorials, and signed commentary.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Siéntete Afro",
+    "root_url": "sienteteafro.org",
+    "scope": "national",
+    "country": [
+      "Peru"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Digital magazine focused on Afro-Peruvian culture, rights, and politics with signed opinion columns and commentary.",
+    "ethnicity": "Afro-Peruvian"
+  },
+  {
+    "name": "Soy502",
+    "root_url": "soy502.com",
+    "scope": "national",
+    "country": [
+      "Guatemala"
+    ],
+    "region": [],
+    "political_slant": "center",
+    "description": "Popular digital news site with a signed opinión section commenting on current events for mainstream Spanish-speaking audiences.",
+    "ethnicity": "Ladino (Mestizo)"
+  },
+  {
+    "name": "SoyArmenio",
+    "root_url": "soyarmenio.com",
+    "scope": "national",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Spanish-language Armenian news site based in Argentina that publishes news, opinion, and analysis on Armenia and the diaspora.",
+    "ethnicity": "Armenian Argentines"
+  },
+  {
+    "name": "SoyArmenio",
+    "root_url": "soyarmenio.com.ar",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Spanish-language outlet covering Armenia and the diaspora for Latin America with bylined analysis and commentary.",
+    "ethnicity": "Armenian"
+  },
+  {
+    "name": "Stereo Romance",
+    "root_url": "stereo-romance.com",
+    "scope": "regional",
+    "country": [
+      "Nicaragua"
+    ],
+    "region": [
+      "Carazo"
+    ],
+    "political_slant": "independent",
+    "description": "Carazo-based digital news and radio outlet covering local affairs and publishing signed opinion and analysis pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Studia Croatica",
+    "root_url": "studiacroatica.org",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Argentina",
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Spanish-language journal from Buenos Aires covering the Croatian diaspora in Latin America, publishing bylined essays and opinion on communities including Chile.",
+    "ethnicity": [
+      "Croatian Argentines",
+      "Croatian Bolivians",
+      "Croatian Chileans"
+    ]
+  },
+  {
+    "name": "SUMAÚMA",
+    "root_url": "sumauma.com",
+    "scope": "national",
+    "country": [
+      "Brazil",
+      "Venezuela"
+    ],
+    "region": [
+      "Amazonas"
+    ],
+    "political_slant": "left",
+    "description": "Amazon-centered magazine with signed columns and editorials by journalists and Indigenous leaders on Yanomami crises, land protection, and policy.",
+    "ethnicity": "Yanomami"
+  },
+  {
+    "name": "Syria Untold",
+    "root_url": "syriauntold.com",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Digital magazine centered on Syrian narratives with signed opinion and cultural commentary relevant to Syrians worldwide.",
+    "ethnicity": "Syrian"
+  },
+  {
+    "name": "Tablet Magazine",
+    "root_url": "tabletmag.com",
+    "scope": "national",
+    "country": [
+      "Cuba",
+      "Honduras"
+    ],
+    "region": [],
+    "political_slant": "center",
+    "description": "U.S. Jewish magazine featuring essays and commentary by named authors, occasionally on Cuban Jewish life",
+    "ethnicity": [
+      "Jewish Cubans",
+      "Jewish Hondurans"
+    ]
+  },
+  {
+    "name": "TalCual Digital",
+    "root_url": "talcualdigital.com",
+    "scope": "regional",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "anti-government",
+    "description": "Venezuelan digital newspaper known for signed editorials and opinion columns read by the diaspora community in Costa Rica.",
+    "ethnicity": "Venezuelan diaspora in Costa Rica"
+  },
+  {
+    "name": "The Algemeiner",
+    "root_url": "algemeiner.com",
+    "scope": "national",
+    "country": [
+      "Cuba"
+    ],
+    "region": [],
+    "political_slant": "conservative",
+    "description": "Jewish and Israel-focused news site publishing bylined op-eds and analysis, including occasional coverage of Cuban Jewry",
+    "ethnicity": "Jewish Cubans"
+  },
+  {
+    "name": "The Armenian Weekly",
+    "root_url": "armenianweekly.com",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "center-left",
+    "description": "U.S.-based Armenian diaspora newspaper with extensive signed opinion, editorials, and analysis on Armenian and diaspora issues.",
+    "ethnicity": "Armenian"
+  },
+  {
+    "name": "The Caribbean Camera",
+    "root_url": "thecaribbeancamera.com",
+    "scope": "regional",
+    "country": [
+      "Panama"
+    ],
+    "region": [
+      "Caribbean diaspora"
+    ],
+    "political_slant": "center-left",
+    "description": "Toronto-based Caribbean community newspaper running editorials and opinion columns with bylines.",
+    "ethnicity": "Afro-Antillean (West Indian)"
+  },
+  {
+    "name": "The Costa Rica News (TCRN)",
+    "root_url": "thecostaricanews.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Online English-language news magazine for expats in Costa Rica that runs opinion columns and commentary by named contributors.",
+    "ethnicity": "United States expatriates in Costa Rica"
+  },
+  {
+    "name": "The Electronic Intifada",
+    "root_url": "electronicintifada.net",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "pro-Palestinian",
+    "description": "Independent online publication with news and opinion on Palestine and the Palestinian diaspora, including issues relevant to Latin America.",
+    "ethnicity": "Palestinian Bolivians"
+  },
+  {
+    "name": "The Forward",
+    "root_url": "forward.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica",
+      "Bolivia",
+      "Cuba",
+      "Honduras"
+    ],
+    "region": [
+      "Global"
+    ],
+    "political_slant": "left",
+    "description": "U.S.-based Jewish news magazine with extensive signed opinion and analysis on Jewish affairs and diaspora life.",
+    "ethnicity": [
+      "Jewish Bolivians",
+      "Jewish Costa Ricans",
+      "Jewish Cubans",
+      "Jewish Hondurans"
+    ]
+  },
+  {
+    "name": "The Haitian Times",
+    "root_url": "haitiantimes.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Brazil",
+      "Dominican Republic",
+      "Haiti"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Diaspora-focused Haitian news outlet with bylined opinion columns that often address migration and Haitians in Chile.",
+    "ethnicity": [
+      "Afro-Haitian",
+      "Haitian American",
+      "Haitian Brazilians",
+      "Haitian Canadian",
+      "Haitian immigrants in Chile",
+      "Haitian-Dominican",
+      "Haitians in French Guiana"
+    ]
+  },
+  {
+    "name": "The National Herald (Ethnikos Kirikas)",
+    "root_url": "thenationalherald.com",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "center-right",
+    "description": "Greek-American newspaper publishing editorials and op-eds by named writers on diaspora affairs, occasionally addressing South American communities such as Chile.",
+    "ethnicity": "Greek Chileans"
+  },
+  {
+    "name": "The Palestine Chronicle",
+    "root_url": "palestinechronicle.com",
+    "scope": "regional",
+    "country": [
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "pro-Palestinian",
+    "description": "Nonprofit online newspaper publishing commentary and analysis on Palestinian affairs and diaspora communities.",
+    "ethnicity": "Palestinian Bolivians"
+  },
+  {
+    "name": "The Pappas Post",
+    "root_url": "pappaspost.com",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Diaspora-focused commentary site with bylined opinion pieces on global Greek issues relevant to communities like Greek Chileans.",
+    "ethnicity": "Greek Chileans"
+  },
+  {
+    "name": "The Syrian Observer",
+    "root_url": "syrianobserver.com",
+    "scope": "regional",
+    "country": [
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "anti-government",
+    "description": "English-language platform focused on Syrian affairs that curates and publishes signed editorials and op-eds from Syrian outlets.",
+    "ethnicity": "Syrian"
+  },
+  {
+    "name": "The Tico Times",
+    "root_url": "ticotimes.net",
+    "scope": "national",
+    "country": [
+      "Costa Rica"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "English-language Costa Rica news outlet serving U.S. expatriates with bylined op-eds and commentary on local affairs.",
+    "ethnicity": "United States expatriates in Costa Rica"
+  },
+  {
+    "name": "The Times of Israel",
+    "root_url": "timesofisrael.com",
+    "scope": "regional",
+    "country": [
+      "Honduras"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Global Jewish news outlet with op-eds and blogs by identifiable authors, sometimes covering Central American Jewish communities like Honduras.",
+    "ethnicity": "Jewish Hondurans"
+  },
+  {
+    "name": "The Times of Israel en Español",
+    "root_url": "es.timesofisrael.com",
+    "scope": "regional",
+    "country": [
+      "Chile",
+      "Colombia",
+      "Costa Rica",
+      "Panama",
+      "Peru",
+      "Uruguay"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "independent",
+    "description": "Spanish-language edition of The Times of Israel featuring bylined opinion pieces and analysis relevant to Latin American Jewish readers.",
+    "ethnicity": [
+      "Jewish",
+      "Jewish Chileans",
+      "Jewish Colombians",
+      "Jewish Costa Ricans",
+      "Jewish Panamanian",
+      "Jewish Peruvian"
+    ]
+  },
+  {
+    "name": "The Voice of the Taíno People Online",
+    "root_url": "uctp.blogspot.com",
+    "scope": "regional",
+    "country": [
+      "Dominican Republic"
+    ],
+    "region": [],
+    "political_slant": "",
+    "description": "Transnational Taíno-focused news and commentary with bylined pieces on cultural, political, and rights issues relevant to Taíno communities including in the Dominican Republic.",
+    "ethnicity": "Taíno"
+  },
+  {
+    "name": "The961",
+    "root_url": "the961.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica",
+      "Bolivia",
+      "Paraguay",
+      "Uruguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Lebanon-focused digital outlet with identifiable bylines and opinion pieces, regularly covering the global Lebanese diaspora relevant to Costa Rica.",
+    "ethnicity": [
+      "Lebanese",
+      "Lebanese Bolivians",
+      "Lebanese Costa Ricans",
+      "Lebanese-Paraguayan"
+    ]
+  },
+  {
+    "name": "Times of Israel",
+    "root_url": "timesofisrael.com",
+    "scope": "national",
+    "country": [
+      "Cuba"
+    ],
+    "region": [],
+    "political_slant": "center",
+    "description": "Israeli news site with opinion and blogs by identifiable writers on Jewish world affairs, including Cuba",
+    "ethnicity": "Jewish Cubans"
+  },
+  {
+    "name": "Total Croatia News",
+    "root_url": "total-croatia-news.com",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Bolivia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "English-language portal with commentary and analysis on Croatian affairs and diaspora, occasionally covering Croatian Chileans.",
+    "ethnicity": [
+      "Croatian Bolivians",
+      "Croatian Chileans"
+    ]
+  },
+  {
+    "name": "Travellers' Times",
+    "root_url": "travellerstimes.org.uk",
+    "scope": "regional",
+    "country": [
+      "Chile"
+    ],
+    "region": [
+      "transnational"
+    ],
+    "political_slant": "independent",
+    "description": "UK magazine for Gypsy, Roma and Traveller communities featuring news, opinion columns, and personal essays by named contributors.",
+    "ethnicity": "Roma (Gypsy) Chileans"
+  },
+  {
+    "name": "Tribuna de La Habana",
+    "root_url": "tribuna.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "La Habana"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run newspaper for Havana with city coverage, editorials, and bylined commentary.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Tribuna Judaica",
+    "root_url": "tribunajudaica.com.br",
+    "scope": "regional",
+    "country": [
+      "Brazil"
+    ],
+    "region": [
+      "São Paulo"
+    ],
+    "political_slant": "independent",
+    "description": "São Paulo-based Jewish newspaper featuring community news and op-eds by identifiable authors.",
+    "ethnicity": "Jewish Brazilians"
+  },
+  {
+    "name": "Tusanaje — Peruano Chino",
+    "root_url": "tusanaje.org",
+    "scope": "national",
+    "country": [
+      "Peru"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Platform focused on the Chinese Peruvian (Tusán) community that publishes signed essays, commentary, and analysis on identity, history, and current affairs.",
+    "ethnicity": "Chinese Peruvian (Tusán)"
+  },
+  {
+    "name": "Utila East Wind",
+    "root_url": "utilaeastwind.com",
+    "scope": "regional",
+    "country": [
+      "Honduras"
+    ],
+    "region": [
+      "Bay Islands"
+    ],
+    "political_slant": "independent",
+    "description": "Utila’s community newspaper featuring local news plus editorials and opinion columns authored by residents.",
+    "ethnicity": "Afro-Caribbean Creole (Bay Islanders)"
+  },
+  {
+    "name": "Vanguardia",
+    "root_url": "vanguardia.com",
+    "scope": "regional",
+    "country": [
+      "Colombia"
+    ],
+    "region": [
+      "Santander"
+    ],
+    "political_slant": "",
+    "description": "Bucaramanga daily for Santander with an active opinion section and signed columns.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Vanguardia",
+    "root_url": "vanguardia.com.mx",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Coahuila (Saltillo)"
+    ],
+    "political_slant": "independent",
+    "description": "Saltillo-based daily featuring editorials and signed opinion columns on Coahuila issues.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Vanguardia",
+    "root_url": "vanguardia.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Villa Clara"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Villa Clara carrying local news, editorials, and bylined opinions.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Vant Bèf Info (VBI)",
+    "root_url": "vantbefinfo.com",
+    "scope": "regional",
+    "country": [
+      "Haiti"
+    ],
+    "region": [
+      "Artibonite"
+    ],
+    "political_slant": "",
+    "description": "Gonaïves-based news site focused on Artibonite and national issues, with reporters and signed opinion/tribune pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Venceremos",
+    "root_url": "venceremos.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Guantánamo"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run provincial newspaper of Guantánamo featuring local news, editorials, and bylined opinions.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Versión Final",
+    "root_url": "versionfinal.com.ve",
+    "scope": "regional",
+    "country": [
+      "Venezuela"
+    ],
+    "region": [
+      "Zulia"
+    ],
+    "political_slant": "independent",
+    "description": "Zulia-focused news outlet with a dedicated Opinión section featuring named columnists.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Victoria",
+    "root_url": "victoria.cu",
+    "scope": "regional",
+    "country": [
+      "Cuba"
+    ],
+    "region": [
+      "Isla de la Juventud"
+    ],
+    "political_slant": "pro-government",
+    "description": "State-run weekly of Isla de la Juventud with local reporting, editorials, and signed opinion pieces.",
+    "ethnicity": "None"
+  },
+  {
+    "name": "Vida en el Valle",
+    "root_url": "vidaenelvalle.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "California (Central Valley)"
+    ],
+    "political_slant": "center",
+    "description": "McClatchy’s Spanish-language newspaper serving Central Valley Mexican-American communities with bylined opinions and editorials.",
+    "ethnicity": "Mexican Americans"
+  },
+  {
+    "name": "Vis á Vis",
+    "root_url": "visavis.com.ar",
+    "scope": "national",
+    "country": [
+      "Chile",
+      "Colombia",
+      "Argentina",
+      "Costa Rica",
+      "Bolivia",
+      "Panama",
+      "Peru",
+      "Uruguay"
+    ],
+    "region": [
+      "Latin America"
+    ],
+    "political_slant": "independent",
+    "description": "Argentine Jewish news site that includes bylined opinion and commentary and covers Latin American Jewish communities.",
+    "ethnicity": [
+      "Jewish",
+      "Jewish Argentines",
+      "Jewish Bolivians",
+      "Jewish Chileans",
+      "Jewish Colombians",
+      "Jewish Costa Ricans",
+      "Jewish Panamanian",
+      "Jewish Peruvian"
+    ]
+  },
+  {
+    "name": "Vive Afro",
+    "root_url": "viveafro.org",
+    "scope": "national",
+    "country": [
+      "Colombia"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Colombian digital magazine focused on Afro-Colombian culture, rights, and public debate, featuring signed opinion columns and essays.",
+    "ethnicity": "Afro-Colombians"
+  },
+  {
+    "name": "Voz de la Diáspora",
+    "root_url": "vozdeladiaspora.com",
+    "scope": "national",
+    "country": [
+      "Costa Rica",
+      "El Salvador"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Transnational outlet by Salvadoran journalists featuring signed opinion and analysis on the Salvadoran diaspora, including issues affecting Salvadorans in Costa Rica.",
+    "ethnicity": [
+      "Salvadoran Americans",
+      "Salvadoran diaspora in Costa Rica",
+      "Salvadorans in Spain"
+    ]
+  },
+  {
+    "name": "Wayka Quechua",
+    "root_url": "wayka.pe",
+    "scope": "national",
+    "country": [
+      "Peru"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Quechua-language vertical of Wayka that publishes signed opinion and commentary on Quechua and broader indigenous affairs in Peru.",
+    "ethnicity": "Quechua"
+  },
+  {
+    "name": "Werken Noticias",
+    "root_url": "werken.cl",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "left",
+    "description": "Mapuche-focused news site that publishes reports and bylined opinion pieces on Mapuche politics and rights across Chile and Argentina.",
+    "ethnicity": "Mapuche"
+  },
+  {
+    "name": "Werken.cl - Agencia de Noticias Mapuche",
+    "root_url": "werken.cl",
+    "scope": "national",
+    "country": [
+      "Chile"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Mapuche news agency site featuring reports and signed commentary on conflicts, rights, and culture in southern Chile.",
+    "ethnicity": "Mapuche"
+  },
+  {
+    "name": "Wixárika Research Center",
+    "root_url": "wixarika.org",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Sierra Madre Occidental (Jalisco, Nayarit, Durango, Zacatecas)"
+    ],
+    "political_slant": "independent",
+    "description": "Bilingual outlet dedicated to Wixárika issues that publishes news, opinion, and essays with bylined authors on culture, land rights, and politics.",
+    "ethnicity": "Huichol (Wixárika)"
+  },
+  {
+    "name": "Wochenblatt",
+    "root_url": "wochenblatt.cc",
+    "scope": "national",
+    "country": [
+      "Paraguay"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "German-language news site in Paraguay serving the German community with news and signed commentary on politics, business, and daily life.",
+    "ethnicity": "German-Paraguayan (including Mennonites)"
+  },
+  {
+    "name": "Y Drafod",
+    "root_url": "ydrafod.com.ar",
+    "scope": "regional",
+    "country": [
+      "Argentina"
+    ],
+    "region": [],
+    "political_slant": "independent",
+    "description": "Welsh-language community newspaper in Chubut’s Welsh-Argentine colony with local news and signed opinion pieces.",
+    "ethnicity": "British Argentines"
+  },
+  {
+    "name": "Zeta Tijuana",
+    "root_url": "zetatijuana.com",
+    "scope": "regional",
+    "country": [
+      "Mexico"
+    ],
+    "region": [
+      "Baja California (Tijuana)"
+    ],
+    "political_slant": "independent",
+    "description": "Tijuana weekly investigative news magazine publishing editorials and columns by named journalists.",
+    "ethnicity": "None"
+  }
+]
